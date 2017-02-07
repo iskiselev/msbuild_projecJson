@@ -1,0 +1,2755 @@
+Build started 2/7/2017 3:52:54 PM.
+Environment at start of build:
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\ikiselev\AppData\Roaming
+BuildLab = 14393.rs1_release.161220-1747
+BuildLabEx = 14393.693.amd64fre.rs1_release.161220-1747
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = RWS-IKISELEV2
+ComSpec = C:\Windows\system32\cmd.exe
+FSHARPINSTALLDIR = C:\Program Files (x86)\Microsoft SDKs\F#\4.1\Framework\v4.0\
+HOMEDRIVE = U:
+HOMEPATH = \
+HOMESHARE = \\sabasnap\users\ikiselev
+LOCALAPPDATA = C:\Users\ikiselev\AppData\Local
+LOGONSERVER = \\HQDC1
+MSBuildLoadMicrosoftTargetsReadOnly = true
+NUMBER_OF_PROCESSORS = 8
+OneDrive = C:\Users\ikiselev\OneDrive - Saba
+OS = Windows_NT
+Path = C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\TortoiseHg\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\GitExtensions\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Users\ikiselev\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files (x86)\MSBuild\14.0\Bin;C:\Users\ikiselev\AppData\Roaming\npm
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 26 Stepping 5, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 1a05
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files (x86)
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PROMPT = $P$G
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\
+PUBLIC = C:\Users\Public
+SystemDrive = C:
+SystemRoot = C:\Windows
+TEMP = C:\Users\ikiselev\AppData\Local\Temp
+TMP = C:\Users\ikiselev\AppData\Local\Temp
+USERDNSDOMAIN = SABA.COM
+USERDOMAIN = SABA
+USERDOMAIN_ROAMINGPROFILE = SABA
+USERNAME = ikiselev
+USERPROFILE = C:\Users\ikiselev
+VS120COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\
+VS140COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+windir = C:\Windows
+
+Project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln" on node 1 (Rebuild target(s)).
+Initial Properties:
+_GenerateRestoreGraphProjectEntryInputProperties = 
+      RestoreUseCustomAfterTargets=;
+      NuGetRestoreTargets=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;
+      BuildProjectReferences=false;
+      ExcludeRestorePackageImports=true;
+    
+ALLUSERSPROFILE = C:\ProgramData
+AndroidTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\MDD\Android\V150\
+APPDATA = C:\Users\ikiselev\AppData\Roaming
+AspNetConfiguration = Debug
+BuildLab = 14393.rs1_release.161220-1747
+BuildLabEx = 14393.693.amd64fre.rs1_release.161220-1747
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = RWS-IKISELEV2
+ComSpec = C:\Windows\system32\cmd.exe
+Configuration = Debug
+CurrentSolutionConfigurationContents = <SolutionConfiguration>
+  <ProjectConfiguration Project="{6C01C1E4-613C-407C-A9CE-487E9BA7B62B}" AbsolutePath="C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" BuildProjectInSolution="True">Debug|AnyCPU</ProjectConfiguration>
+</SolutionConfiguration>
+FrameworkSDKRoot = C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\
+FSHARPINSTALLDIR = C:\Program Files (x86)\Microsoft SDKs\F#\4.1\Framework\v4.0\
+HOMEDRIVE = U:
+HOMEPATH = \
+HOMESHARE = \\sabasnap\users\ikiselev
+iOSTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\MDD\iOS\V150\
+IsRestoreTargetsFileLoaded = true
+LOCALAPPDATA = C:\Users\ikiselev\AppData\Local
+LOGONSERVER = \\HQDC1
+MSBuildAllProjects = ;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets
+MSBuildAssemblyVersion = 15.0
+MSBuildBinPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin
+MSBuildExtensionsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild
+MSBuildExtensionsPath32 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild
+MSBuildExtensionsPath64 = C:\Program Files\MSBuild
+MSBuildFrameworkToolsPath = C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+MSBuildFrameworkToolsPath32 = C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+MSBuildFrameworkToolsPath64 = C:\Windows\Microsoft.NET\Framework64\v4.0.30319\
+MSBuildFrameworkToolsRoot = C:\Windows\Microsoft.NET\Framework\
+MSBuildLoadMicrosoftTargetsReadOnly = true
+MSBuildNodeCount = 1
+MSBuildProgramFiles32 = C:\Program Files (x86)
+MSBuildProjectDefaultTargets = Build
+MSBuildProjectDirectory = C:\Projects\playground\ProjectJsonBuild
+MSBuildProjectDirectoryNoRoot = Projects\playground\ProjectJsonBuild
+MSBuildProjectExtension = .metaproj
+MSBuildProjectFile = ProjectJsonBuild.sln.metaproj
+MSBuildProjectFullPath = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln.metaproj
+MSBuildProjectName = ProjectJsonBuild.sln
+MSBuildRuntimeType = Full
+MSBuildRuntimeVersion = 4.0.30319
+MSBuildSDKsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Sdks
+MSBuildStartupDirectory = C:\Projects\playground\ProjectJsonBuild
+MSBuildToolsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin
+MSBuildToolsPath32 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin
+MSBuildToolsPath64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\amd64
+MSBuildToolsRoot = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild
+MSBuildToolsVersion = 15.0
+MSBuildUserExtensionsPath = C:\Users\ikiselev\AppData\Local\Microsoft\MSBuild
+NuGetRestoreTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\..\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets
+NUMBER_OF_PROCESSORS = 8
+OneDrive = C:\Users\ikiselev\OneDrive - Saba
+OS = Windows_NT
+Path = C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\TortoiseHg\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\GitExtensions\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Users\ikiselev\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files (x86)\MSBuild\14.0\Bin;C:\Users\ikiselev\AppData\Roaming\npm
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+Platform = Any CPU
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 26 Stepping 5, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 1a05
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PROMPT = $P$G
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\
+PUBLIC = C:\Users\Public
+RestoreContinueOnError = WarnAndContinue
+RestoreRecursive = true
+RestoreTaskAssemblyFile = NuGet.Build.Tasks.dll
+RoslynTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Roslyn
+SDK35ToolsPath = 
+SDK40ToolsPath = C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\
+SolutionDir = C:\Projects\playground\ProjectJsonBuild\
+SolutionExt = .sln
+SolutionFileName = ProjectJsonBuild.sln
+SolutionName = ProjectJsonBuild
+SolutionPath = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln
+SystemDrive = C:
+SystemRoot = C:\Windows
+TargetFrameworkVersion = v4.0
+TEMP = C:\Users\ikiselev\AppData\Local\Temp
+TMP = C:\Users\ikiselev\AppData\Local\Temp
+USERDNSDOMAIN = SABA.COM
+USERDOMAIN = SABA
+USERDOMAIN_ROAMINGPROFILE = SABA
+USERNAME = ikiselev
+USERPROFILE = C:\Users\ikiselev
+ValidateRuntimeIdentifierCompatibility = false
+VCTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\
+VCTargetsPath10 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\
+VCTargetsPath11 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\
+VCTargetsPath12 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\
+VCTargetsPath14 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\
+VS120COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\
+VS140COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+VsInstallRoot = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise
+windir = C:\Windows
+WindowsSDK80Path = C:\Program Files (x86)\Windows Kits\8.1\
+
+Initial Items:
+ProjectReference
+    C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj
+        ToolsVersion = 
+        SkipNonexistentProjects = False
+        AdditionalProperties = Configuration=Debug; Platform=AnyCPU
+        Configuration = Debug
+        Platform = AnyCPU
+SolutionConfiguration
+    Debug|Any CPU
+        Configuration = Debug
+        Platform = Any CPU
+        Content = <SolutionConfiguration>
+  <ProjectConfiguration Project="{6C01C1E4-613C-407C-A9CE-487E9BA7B62B}" AbsolutePath="C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" BuildProjectInSolution="True">Debug|AnyCPU</ProjectConfiguration>
+</SolutionConfiguration>
+    Release|Any CPU
+        Configuration = Release
+        Platform = Any CPU
+        Content = <SolutionConfiguration>
+  <ProjectConfiguration Project="{6C01C1E4-613C-407C-A9CE-487E9BA7B62B}" AbsolutePath="C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" BuildProjectInSolution="True">Release|AnyCPU</ProjectConfiguration>
+</SolutionConfiguration>
+
+Building with tools version "15.0".
+Target "ValidateSolutionConfiguration: (TargetId:2)" in file "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln.metaproj" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln" (entry point):
+Task "Error" skipped, due to false condition; (('$(CurrentSolutionConfigurationContents)' == '') and ('$(SkipInvalidConfigurations)' != 'true')) was evaluated as (('<SolutionConfiguration>
+  <ProjectConfiguration Project="{6C01C1E4-613C-407C-A9CE-487E9BA7B62B}" AbsolutePath="C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" BuildProjectInSolution="True">Debug|AnyCPU</ProjectConfiguration>
+</SolutionConfiguration>' == '') and ('' != 'true')).
+Task "Warning" skipped, due to false condition; (('$(CurrentSolutionConfigurationContents)' == '') and ('$(SkipInvalidConfigurations)' == 'true')) was evaluated as (('<SolutionConfiguration>
+  <ProjectConfiguration Project="{6C01C1E4-613C-407C-A9CE-487E9BA7B62B}" AbsolutePath="C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" BuildProjectInSolution="True">Debug|AnyCPU</ProjectConfiguration>
+</SolutionConfiguration>' == '') and ('' == 'true')).
+Using "Message" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "Message" (TaskId:2)
+  Task Parameter:Text=Building solution configuration "Debug|Any CPU". (TaskId:2)
+  Building solution configuration "Debug|Any CPU". (TaskId:2)
+Done executing task "Message". (TaskId:2)
+Done building target "ValidateSolutionConfiguration" in project "ProjectJsonBuild.sln".: (TargetId:2)
+Target "ValidateToolsVersions: (TargetId:3)" in file "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln.metaproj" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln" (entry point):
+Task "Error" skipped, due to false condition; ('$(MSBuildToolsVersion)' == '2.0' and ('$(ProjectToolsVersion)' != '2.0' and '$(ProjectToolsVersion)' != '')) was evaluated as ('15.0' == '2.0' and ('' != '2.0' and '' != '')).
+Done building target "ValidateToolsVersions" in project "ProjectJsonBuild.sln".: (TargetId:3)
+Target "ValidateProjects: (TargetId:4)" in file "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln.metaproj" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln" (entry point):
+Done building target "ValidateProjects" in project "ProjectJsonBuild.sln".: (TargetId:4)
+Target "Rebuild: (TargetId:5)" in file "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln.metaproj" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln" (entry point):
+Using "MSBuild" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "MSBuild" (TaskId:3)
+  Task Parameter:
+      Projects=
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj
+                  AdditionalProperties=Configuration=Debug; Platform=AnyCPU
+                  Configuration=Debug
+                  Platform=AnyCPU
+                  SkipNonexistentProjects=False
+                  ToolsVersion= (TaskId:3)
+  Task Parameter:Targets=Rebuild (TaskId:3)
+  Task Parameter:BuildInParallel=True (TaskId:3)
+  Task Parameter:
+      Properties=
+          BuildingSolutionFile=true
+          CurrentSolutionConfigurationContents=<SolutionConfiguration>
+    <ProjectConfiguration Project="{6C01C1E4-613C-407C-A9CE-487E9BA7B62B}" AbsolutePath="C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" BuildProjectInSolution="True">Debug|AnyCPU</ProjectConfiguration>
+  </SolutionConfiguration>
+          SolutionDir=C:\Projects\playground\ProjectJsonBuild\
+          SolutionExt=.sln
+          SolutionFileName=ProjectJsonBuild.sln
+          SolutionName=ProjectJsonBuild
+          SolutionPath=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln (TaskId:3)
+  Task Parameter:SkipNonexistentProjects=False (TaskId:3)
+  Global Properties: (TaskId:3)
+    BuildingSolutionFile=true (TaskId:3)
+    CurrentSolutionConfigurationContents=<SolutionConfiguration>
+    <ProjectConfiguration Project="{6C01C1E4-613C-407C-A9CE-487E9BA7B62B}" AbsolutePath="C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" BuildProjectInSolution="True">Debug|AnyCPU</ProjectConfiguration>
+  </SolutionConfiguration> (TaskId:3)
+    SolutionDir=C:\Projects\playground\ProjectJsonBuild\ (TaskId:3)
+    SolutionExt=.sln (TaskId:3)
+    SolutionFileName=ProjectJsonBuild.sln (TaskId:3)
+    SolutionName=ProjectJsonBuild (TaskId:3)
+    SolutionPath=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln (TaskId:3)
+  Additional Properties for project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj": (TaskId:3)
+    Configuration=Debug (TaskId:3)
+    Platform=AnyCPU (TaskId:3)
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Trying to import C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.props using extensions path C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Trying to import C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\$(MSBuildToolsVersion)\Imports\Microsoft.Common.props\ImportBefore\* using extensions path C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Trying to import C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\$(MSBuildToolsVersion)\Microsoft.VisualStudioVersion.v*.Common.props using extensions path C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild
+Trying to import C:\Program Files (x86)\MSBuild\$(MSBuildToolsVersion)\Microsoft.VisualStudioVersion.v*.Common.props using extensions path C:\Program Files (x86)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Trying to import C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportAfter\* using extensions path C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Overriding target "GetFrameworkPaths" in project "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" with target "GetFrameworkPaths" from project "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.NETFramework.CurrentVersion.targets".
+Overriding target "SatelliteDllsProjectOutputGroup" in project "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" with target "SatelliteDllsProjectOutputGroup" from project "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets".
+Project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln" (1) is building "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (2) on node 1 (Rebuild target(s)).
+Initial Properties:
+_AfterCompileWinFXInternalDependsOn = 
+        PrepareResourcesForSatelliteAssemblies;
+        MergeLocalizationDirectives;
+        AfterCompileWinFX
+    
+_CompileTargetNameForLocalType = _CompileTemporaryAssembly
+_DebugSymbolsProduced = true
+_DeploymentApplicationManifestIdentity = ProjectJsonBuild.exe
+_DeploymentBuiltUpdateInterval = 0
+_DeploymentBuiltUpdateIntervalUnits = Days
+_DeploymentDeployManifestIdentity = ProjectJsonBuild.application
+_DeploymentFileMappingExtension = 
+_DeploymentPublishableProjectDefault = true
+_DeploymentTargetApplicationManifestFileName = ProjectJsonBuild.exe.manifest
+_DeploymentUrl = 
+_DirectoryBuildPropsBasePath = 
+_DirectoryBuildPropsFile = Directory.Build.props
+_DirectoryBuildTargetsBasePath = 
+_DirectoryBuildTargetsFile = Directory.Build.targets
+_DocumentationFileProduced = true
+_GenerateBindingRedirectsIntermediateAppConfig = obj\Debug\ProjectJsonBuild.csproj.ProjectJsonBuild.exe.config
+_GenerateRestoreGraphProjectEntryInputProperties = 
+      RestoreUseCustomAfterTargets=;
+      NuGetRestoreTargets=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;
+      BuildProjectReferences=false;
+      ExcludeRestorePackageImports=true;
+    
+_GetChildProjectCopyToOutputDirectoryItems = true
+_NuGetRuntimeIdentifierWithoutAot = win
+_OriginalConfiguration = Debug
+_OriginalPlatform = AnyCPU
+_ProjectDefaultTargets = Build
+_RequireMCPass2ForMainAssembly = false
+_RequireMCPass2ForSatelliteAssemblyOnly = false
+_ResolveReferenceDependencies = false
+_ResourceNameInMainAssembly = ProjectJsonBuild.g.resources
+_SGenDllCreated = false
+_SGenDllName = ProjectJsonBuild.XmlSerializers.dll
+_SGenGenerateSerializationAssembliesConfig = Off
+AddAdditionalExplicitAssemblyReferences = true
+AddAppConfigToBuildOutputs = true
+AddItemTemplatesGuid = {FAE04EC0-301F-11d3-BF4B-00C04F79EFBC}
+AdditionalExplicitAssemblyReferences = System.Core;
+AllowedReferenceAssemblyFileExtensions = 
+      .winmd;
+      .dll;
+      .exe
+    
+AllowedReferenceRelatedFileExtensions = 
+      .pdb;
+      .xml;
+      .pri;
+      .dll.config;
+      .exe.config
+    
+ALLUSERSPROFILE = C:\ProgramData
+AlwaysCompileMarkupFilesInSeparateDomain = true
+AlwaysUseNumericalSuffixInItemNames = true
+AndroidTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\MDD\Android\V150\
+APPDATA = C:\Users\ikiselev\AppData\Roaming
+AppDesignerFolder = Properties
+AppDesignerFolderContentsVisibleOnlyInShowAllFiles = false
+AssemblyFoldersConfigFile = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\AssemblyFolders.config
+AssemblyFoldersConfigFileSearchPath = {AssemblyFoldersFromConfig:C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\AssemblyFolders.config,v4.5.2};
+AssemblyFoldersSuffix = AssemblyFoldersEx
+AssemblyName = ProjectJsonBuild
+AssemblySearchPaths = 
+      {CandidateAssemblyFiles};
+      ;
+      {HintPathFromItem};
+      {TargetFrameworkDirectory};
+      {AssemblyFoldersFromConfig:C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\AssemblyFolders.config,v4.5.2};
+      {Registry:Software\Microsoft\.NETFramework,v4.5.2,AssemblyFoldersEx};
+      {AssemblyFolders};
+      {GAC};
+      {RawFileName};
+      bin\Debug\
+    
+AssignTargetPathsDependsOn = 
+AutoGenerateBindingRedirects = true
+AutoUnifyAssemblyReferences = true
+AvailablePlatforms = Any CPU,x86,x64
+BaseIntermediateOutputPath = obj\
+BaseNuGetRuntimeIdentifier = win
+BuildCompileAction = Build
+BuildDependsOn = 
+      EntityDeploy;
+      
+      BeforeBuild;
+      CoreBuild;
+      AfterBuild
+    
+    
+BuildGenerateSourcesAction = Build
+BuildingProject = false
+BuildingSolutionFile = true
+BuildInParallel = true
+BuildLab = 14393.rs1_release.161220-1747
+BuildLabEx = 14393.693.amd64fre.rs1_release.161220-1747
+BuildLinkAction = Build
+BuildProjectReferences = true
+BuildSystem = MSBuild
+BuildTaskAssembly = PresentationBuildTasks, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+BuiltProjectOutputGroupDependsOn = PrepareForBuild
+CleanDependsOn = 
+      
+      BeforeClean;
+      UnmanagedUnregistration;
+      CoreClean;
+      CleanReferencedProjects;
+      CleanPublishFolder;
+      AfterClean
+    ;
+      EntityClean;
+    
+CleanFile = ProjectJsonBuild.csproj.FileListAbsolute.txt
+CodeAnalysisApplyLogFileXsl = false
+CodeAnalysisFailOnMissingRules = false
+CodeAnalysisForceOutput = true
+CodeAnalysisGenerateSuccessFile = true
+CodeAnalysisIgnoreGeneratedCode = true
+CodeAnalysisIgnoreInvalidTargets = true
+CodeAnalysisIgnoreMissingIndirectReferences = false
+CodeAnalysisInputAssembly = bin\Debug\ProjectJsonBuild.exe
+CodeAnalysisLogFile = bin\Debug\ProjectJsonBuild.exe.CodeAnalysisLog.xml
+CodeAnalysisModuleSuppressionsFile = GlobalSuppressions.cs
+CodeAnalysisOutputToConsole = false
+CodeAnalysisOverrideRuleVisibilities = false
+CodeAnalysisPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Team Tools\Static Analysis Tools\FxCop\
+CodeAnalysisQuiet = false
+CodeAnalysisRuleDirectories = ;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Team Tools\Static Analysis Tools\FxCop\\Rules
+CodeAnalysisRuleSet = MinimumRecommendedRules.ruleset
+CodeAnalysisRuleSetDirectories = ;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Team Tools\Static Analysis Tools\\Rule Sets
+CodeAnalysisSaveMessagesToReport = Active
+CodeAnalysisSearchGlobalAssemblyCache = true
+CodeAnalysisStaticAnalysisDirectory = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Team Tools\Static Analysis Tools\
+CodeAnalysisSucceededFile = bin\Debug\ProjectJsonBuild.exe.lastcodeanalysissucceeded
+CodeAnalysisSummary = false
+CodeAnalysisTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\v15.0\CodeAnalysis\Microsoft.CodeAnalysis.targets
+CodeAnalysisTimeout = 120
+CodeAnalysisTreatWarningsAsErrors = false
+CodeAnalysisUpdateProject = false
+CodeAnalysisUseTypeNameInSuppression = true
+CodeAnalysisVerbose = false
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+CommonTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets
+CommonXamlResourcesDirectory = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\\
+CompileDependsOn = 
+        
+      ResolveReferences;
+      ResolveKeySource;
+      SetWin32ManifestProperties;
+      _GenerateCompileInputs;
+      BeforeCompile;
+      _TimeStampBeforeCompile;
+      _GenerateCompileDependencyCache;
+      CoreCompile;
+      _TimeStampAfterCompile;
+      AfterCompile;
+    ;
+        _AfterCompileWinFXInternal
+    
+CompileLicxFilesDependsOn = 
+CompileTargetNameForTemporaryAssembly = CompileTemporaryAssembly
+ComputeIntermediateSatelliteAssembliesDependsOn = 
+      CreateManifestResourceNames
+    
+COMPUTERNAME = RWS-IKISELEV2
+ComReferenceExecuteAsTool = false
+ComReferenceNoClassMembers = false
+ComSpec = C:\Windows\system32\cmd.exe
+Configuration = Debug
+ConfigurationName = Debug
+ConsiderPlatformAsProcessorArchitecture = true
+ContentFilesProjectOutputGroupDependsOn = PrepareForBuild;AssignTargetPaths
+ContinueOnError = false
+CopyNuGetImplementations = true
+CoreBuildDependsOn = 
+      BuildOnlySettings;
+      PrepareForBuild;
+      PreBuildEvent;
+      ResolveReferences;
+      PrepareResources;
+      ResolveKeySource;
+      Compile;
+      ExportWindowsMDFile;
+      UnmanagedUnregistration;
+      GenerateSerializationAssemblies;
+      CreateSatelliteAssemblies;
+      GenerateManifests;
+      GetTargetPath;
+      PrepareForRun;
+      UnmanagedRegistration;
+      IncrementalClean;
+      PostBuildEvent
+    
+CoreCleanDependsOn = 
+CoreCompileDependsOn = _ComputeNonExistentFileProperty;ResolveCodeAnalysisRuleSet
+CoreResGenDependsOn = 
+CreateCustomManifestResourceNamesDependsOn = 
+CreateHardLinksForCopyAdditionalFilesIfPossible = false
+CreateManifestResourceNamesDependsOn = 
+CreateSatelliteAssembliesDependsOn = 
+      _GenerateSatelliteAssemblyInputs;
+      ComputeIntermediateSatelliteAssemblies;
+      GenerateSatelliteAssemblies
+    
+CreateSymbolicLinksForCopyAdditionalFilesIfPossible = false
+CSharpCoreTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Roslyn\Microsoft.CSharp.Core.targets
+CSharpDesignTimeTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets
+CSharpTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.CSharp.CurrentVersion.targets
+CurrentSolutionConfigurationContents = <SolutionConfiguration>
+  <ProjectConfiguration Project="{6C01C1E4-613C-407C-A9CE-487E9BA7B62B}" AbsolutePath="C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" BuildProjectInSolution="True">Debug|AnyCPU</ProjectConfiguration>
+</SolutionConfiguration>
+CustomAfterMicrosoftCommonProps = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\v15.0\Custom.After.Microsoft.Common.props
+CustomAfterMicrosoftCommonTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\v15.0\Custom.After.Microsoft.Common.targets
+CustomAfterMicrosoftCSharpTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\v15.0\Custom.After.Microsoft.CSharp.targets
+CustomBeforeMicrosoftCommonProps = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\v15.0\Custom.Before.Microsoft.Common.props
+CustomBeforeMicrosoftCommonTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\v15.0\Custom.Before.Microsoft.Common.targets
+CustomBeforeMicrosoftCSharpTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\v15.0\Custom.Before.Microsoft.CSharp.targets
+DebuggerFlavor = ProjectDebugger
+DebugSymbols = true
+DebugSymbolsProjectOutputGroupDependsOn = 
+DebugType = full
+DefaultLanguageSourceExtension = .cs
+DeferredValidationErrorsFileName = obj\Debug\\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+DefineCommonCapabilities = false
+DefineCommonItemSchemas = false
+DefineCommonManagedCapabilities = true
+DefineCommonManagedItemSchemas = true
+DefineCommonManagedReferenceSchemas = true
+DefineCommonReferenceSchemas = false
+DefineConstants = DEBUG;TRACE
+DelaySign = 
+DeploymentType = Installed
+DesignTimeIntermediateOutputPath = obj\Debug\InProcessTempFiles\
+DesignTimeResolveAssemblyReferencesDependsOn = 
+      GetFrameworkPaths;
+      GetReferenceAssemblyPaths;
+      ResolveReferences
+    
+DevEnvDir = *Undefined*
+DockerBuildTasksAssembly = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\v15.0\Docker\\Microsoft.DotNet.Docker.BuildTasks.dll
+DockerIntermediateOutputPath = obj\Docker
+DockerPublishDirectory = obj\Docker\publish
+DocumentationFile = bin\Debug\ProjectJsonBuild.xml
+DocumentationProjectOutputGroupDependsOn = 
+DotNetDockerTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\v15.0\Docker\Microsoft.DotNet.Docker.targets
+EmbeddedWin32Manifest = 
+EntityDeployDependsOn = 
+EntityDeployIntermediateResourcePath = obj\Debug\edmxResourcesToEmbed\
+ErrorReport = prompt
+ExpandSDKAllowedReferenceExtensions = 
+      .winmd;
+      .dll
+    
+ExpandSDKReferencesDependsOn = 
+      ResolveSDKReferences
+    
+FakesBinPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\v15.0\Fakes
+FakesCommandLineArguments =  /Properties:";PlatformTarget=AnyCPU" /msbuildpath:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\msbuild.exe"
+FakesCompilationProperties = ;PlatformTarget=AnyCPU
+FakesContinueOnError = false
+FakesGenerateBeforeBuildDependsOn = 
+      ;
+      ResolveFakesReferences;
+      BuildFakesAssemblies;
+    
+FakesImported = true
+FakesIntermediatePath = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\Fakes
+FakesMSBuildPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\msbuild.exe
+FakesOutputPath = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\FakesAssemblies
+FakesTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\v15.0\Fakes\Microsoft.QualityTools.Testing.Fakes.targets
+FakesTasks = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\v15.0\Fakes\Microsoft.QualityTools.Testing.Fakes.Tasks.dll
+FakesToolsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\v15.0\Fakes
+FakesVerbosity = Critical
+FileAlignment = 512
+FindInvalidProjectReferencesDependsOn = 
+      GetReferenceTargetPlatformMonikers
+    
+Framework20Dir = @(_TargetFramework20DirectoryItem)
+Framework30Dir = @(_TargetFramework30DirectoryItem)
+Framework35Dir = @(_TargetFramework35DirectoryItem)
+Framework40Dir = @(_TargetFramework40DirectoryItem)
+FrameworkDir = @(_TargetFramework40DirectoryItem)
+FrameworkPathOverride = C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2
+FrameworkRegistryBase = Software\Microsoft\.NETFramework
+FrameworkSDKDir = @(_TargetFrameworkSDKDirectoryItem)
+FrameworkSDKRoot = C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\
+FSHARPINSTALLDIR = C:\Program Files (x86)\Microsoft SDKs\F#\4.1\Framework\v4.0\
+FullReferenceAssemblyNames = Full
+GenerateBindingRedirectsOutputType = true
+GenerateClickOnceManifests = 
+GenerateCompiledExpressionsTempFilePathForEditing = obj\Debug\\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+GenerateCompiledExpressionsTempFilePathForTypeInfer = obj\Debug\\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+GenerateCompiledExpressionsTempFilePathForValidation = obj\Debug\\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+GeneratedFileExtension = .g.cs
+GenerateManifestsDependsOn = 
+      SetWin32ManifestProperties;
+      GenerateApplicationManifest;
+      GenerateDeploymentManifest
+    
+GenerateTargetFrameworkAttribute = true
+GetCopyToOutputDirectoryItemsDependsOn = 
+      AssignTargetPaths;
+      _SplitProjectReferencesByFileExistence;
+      _GetProjectReferenceTargetFrameworkProperties
+    
+GetFrameworkPathsDependsOn = 
+GetReferenceAssemblyPathsDependsOn = 
+        ;
+        GetWinFXPath
+    
+GetTargetPathDependsOn = 
+GetTargetPathWithTargetPlatformMonikerDependsOn = ; GetTargetPath
+HighEntropyVA = true
+HOMEDRIVE = U:
+HOMEPATH = \
+HOMESHARE = \\sabasnap\users\ikiselev
+HostInBrowser = false
+ImplicitlyExpandDesignTimeFacades = true
+ImplicitlyExpandDesignTimeFacadesDependsOn = 
+      ;
+      GetReferenceAssemblyPaths
+    
+ImportByWildcardAfterMicrosoftCommonProps = true
+ImportByWildcardAfterMicrosoftCommonTargets = true
+ImportByWildcardAfterMicrosoftCSharpTargets = true
+ImportByWildcardAfterMicrosoftNetFrameworkProps = true
+ImportByWildcardAfterMicrosoftNetFrameworkTargets = true
+ImportByWildcardBeforeMicrosoftCommonProps = true
+ImportByWildcardBeforeMicrosoftCommonTargets = true
+ImportByWildcardBeforeMicrosoftCSharpTargets = true
+ImportByWildcardBeforeMicrosoftNetFrameworkProps = true
+ImportByWildcardBeforeMicrosoftNetFrameworkTargets = true
+ImportDirectoryBuildProps = true
+ImportDirectoryBuildTargets = true
+ImportProjectExtensionProps = true
+ImportProjectExtensionTargets = true
+ImportUserLocationsByWildcardAfterMicrosoftCommonProps = true
+ImportUserLocationsByWildcardAfterMicrosoftCommonTargets = true
+ImportUserLocationsByWildcardAfterMicrosoftCSharpTargets = true
+ImportUserLocationsByWildcardAfterMicrosoftNetFrameworkProps = true
+ImportUserLocationsByWildcardAfterMicrosoftNetFrameworkTargets = true
+ImportUserLocationsByWildcardBeforeMicrosoftCommonProps = true
+ImportUserLocationsByWildcardBeforeMicrosoftCommonTargets = true
+ImportUserLocationsByWildcardBeforeMicrosoftCSharpTargets = true
+ImportUserLocationsByWildcardBeforeMicrosoftNetFrameworkProps = true
+ImportUserLocationsByWildcardBeforeMicrosoftNetFrameworkTargets = true
+ImportXamlTargets = true
+IncludeFrameworkReferencesFromNuGet = true
+IntermediateOutputPath = obj\Debug\
+iOSTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\MDD\iOS\V150\
+IsApplication = true
+IsRestoreTargetsFileLoaded = true
+Language = C#
+LanguageServiceName = C#
+LoadTimeSensitiveProperties = 
+      ;
+    
+LoadTimeSensitiveTargets = 
+      ;
+      XamlMarkupCompilePass1;
+    
+LOCALAPPDATA = C:\Users\ikiselev\AppData\Local
+LocalizationDirectivesToLocFile = None
+LOGONSERVER = \\HQDC1
+ManagedXamlResourcesDirectory = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\
+MarkupCompilePass2ForMainAssemblyDependsOn = 
+                     GenerateTemporaryTargetAssembly;
+                     MarkupCompilePass2;
+                     AfterMarkupCompilePass2;
+                     CleanupTemporaryTargetAssembly
+       
+MaxTargetPath = 100
+MergedOutputCodeAnalysisFile = vc.nativecodeanalysis.all.xml
+MicrosoftCommonPropsHasBeenImported = true
+MsAppxPackageTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\v15.0\AppxPackage\Microsoft.AppXPackage.Targets
+MSBuildAllProjects = ;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.NETFramework.CurrentVersion.props;C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets;C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\NuGet\15.0\Microsoft.NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets
+MSBuildAssemblyVersion = 15.0
+MSBuildBinPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin
+MSBuildExtensionsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild
+MSBuildExtensionsPath32 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild
+MSBuildExtensionsPath64 = C:\Program Files\MSBuild
+MSBuildFrameworkToolsPath = C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+MSBuildFrameworkToolsPath32 = C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+MSBuildFrameworkToolsPath64 = C:\Windows\Microsoft.NET\Framework64\v4.0.30319\
+MSBuildFrameworkToolsRoot = C:\Windows\Microsoft.NET\Framework\
+MSBuildLoadMicrosoftTargetsReadOnly = true
+MSBuildNodeCount = 1
+MSBuildProgramFiles32 = C:\Program Files (x86)
+MSBuildProjectDefaultTargets = Build
+MSBuildProjectDirectory = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild
+MSBuildProjectDirectoryNoRoot = Projects\playground\ProjectJsonBuild\ProjectJsonBuild
+MSBuildProjectExtension = .csproj
+MSBuildProjectExtensionsPath = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\
+MSBuildProjectFile = ProjectJsonBuild.csproj
+MSBuildProjectFullPath = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj
+MSBuildProjectName = ProjectJsonBuild
+MSBuildRuntimeType = Full
+MSBuildRuntimeVersion = 4.0.30319
+MSBuildSDKsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Sdks
+MSBuildStartupDirectory = C:\Projects\playground\ProjectJsonBuild
+MSBuildToolsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin
+MSBuildToolsPath32 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin
+MSBuildToolsPath64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\amd64
+MSBuildToolsRoot = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild
+MSBuildToolsVersion = 15.0
+MSBuildUserExtensionsPath = C:\Users\ikiselev\AppData\Local\Microsoft\MSBuild
+MsTestToolsTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\v15.0\TeamTest\Microsoft.TeamTest.targets
+NetFrameworkPropsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.NETFramework.CurrentVersion.props
+NetFrameworkTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.NETFramework.CurrentVersion.targets
+NoCompilerStandardLib = true
+NuGetProps = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\NuGet\\Microsoft.NuGet.props
+NuGetRestoreTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\..\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets
+NuGetRuntimeIdentifier = win
+NuGetTargetFrameworkMonikerToInject = .NETCore,Version=v5.0
+NuGetTargetMoniker = .NETFramework,Version=v4.5.2
+NuGetTargetMonikerToInject = .NETCore,Version=v5.0
+NuGetTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\NuGet\15.0\Microsoft.NuGet.targets
+NUMBER_OF_PROCESSORS = 8
+OneDrive = C:\Users\ikiselev\OneDrive - Saba
+Optimize = false
+OS = Windows_NT
+OSVersion = 5.1.2600.0
+OutDir = bin\Debug\
+OutputPath = bin\Debug\
+OutputType = Exe
+OverwriteReadOnlyFiles = false
+Path = C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\TortoiseHg\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\GitExtensions\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Users\ikiselev\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files (x86)\MSBuild\14.0\Bin;C:\Users\ikiselev\AppData\Roaming\npm
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+Platform = AnyCPU
+PlatformName = AnyCPU
+PlatformTarget = AnyCPU
+PlatformTargetAsMSBuildArchitecture = CurrentArchitecture
+PlatformTargetAsMSBuildArchitectureExplicitlySet = false
+PostBuildEventDependsOn = 
+PreBuildEventDependsOn = 
+Prefer32Bit = true
+PrepareForBuildDependsOn = GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata
+PrepareForRunDependsOn = 
+      CopyFilesToOutputDirectory
+    ;RunCodeAnalysis
+PrepareProjectReferencesDependsOn = 
+      AssignProjectConfiguration;
+      _SplitProjectReferencesByFileExistence;
+      _GetProjectReferenceTargetFrameworkProperties
+    
+PrepareResourceNamesDependsOn = 
+                    AssignWinFXEmbeddedResource;
+                    
+      AssignTargetPaths;
+      SplitResourcesByCulture;
+      CreateManifestResourceNames;
+      CreateCustomManifestResourceNames
+    
+      
+PrepareResourcesDependsOn = ResolveNuGetPackageAssets;
+      ValidationExtension;
+      ExpressionBuildExtension;
+      
+      XamlMarkupCompilePass1;
+      XamlMarkupCompilePass2;
+      
+                MarkupCompilePass1;
+                AfterMarkupCompilePass1;
+                MarkupCompilePass2ForMainAssembly;
+                FileClassification;
+                MainResourcesGeneration;
+                
+      PrepareResourceNames;
+      ResGen;
+      CompileLicxFiles
+    
+       
+    
+    
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 26 Stepping 5, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 1a05
+ProcessorArchitecture = msil
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+ProjectDesignTimeAssemblyResolutionSearchPaths = 
+      {CandidateAssemblyFiles};
+      ;
+      {HintPathFromItem};
+      {TargetFrameworkDirectory};
+      {Registry:Software\Microsoft\.NETFramework,v4.5.2,AssemblyFoldersEx};
+      {RawFileName};
+      C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\
+    
+ProjectDir = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\
+ProjectExt = .csproj
+ProjectFileName = ProjectJsonBuild.csproj
+ProjectFlavor = Client
+ProjectGuid = {6C01C1E4-613C-407C-A9CE-487E9BA7B62B}
+ProjectLockFile = project.lock.json
+ProjectName = ProjectJsonBuild
+ProjectPath = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj
+ProjectView = ShowAllFiles
+PROMPT = $P$G
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\
+PUBLIC = C:\Users\Public
+PublishableProject = true
+PublishBuildDependsOn = 
+            BuildOnlySettings;
+            PrepareForBuild;
+            ResolveReferences;
+            PrepareResources;
+            ResolveKeySource;
+            PrepareResourcesForSatelliteAssemblies;
+            GenerateSerializationAssemblies;
+            CreateSatelliteAssemblies;
+        
+PublishDependsOn = 
+      SetGenerateManifests;
+      Build;
+      PublishOnly
+    
+PublishDir = bin\Debug\app.publish\
+PublishOnlyDependsOn = 
+      SetGenerateManifests;
+      PublishBuild;
+      BeforePublish;
+      GenerateManifests;
+      CopyFilesToOutputDirectory;
+      _CopyFilesToPublishFolder;
+      _DeploymentGenerateBootstrapper;
+      ResolveKeySource;
+      _DeploymentSignClickOnceDeployment;
+      AfterPublish
+    
+RebuildDependsOn = 
+      BeforeRebuild;
+      Clean;
+      Build;
+      AfterRebuild;
+    
+ReportingServicesTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\v15.0\ReportingServices\Microsoft.ReportingServices.targets
+ResGenDependsOn = ResolveAssemblyReferences;SplitResourcesByCulture;BeforeResGen;CoreResGen;AfterResGen
+ResGenExecuteAsTool = false
+ResolveAssemblyReferencesDependsOn = 
+      
+      GetFrameworkPaths;
+      GetReferenceAssemblyPaths;
+      PrepareForBuild;
+      ResolveSDKReferences;
+      ExpandSDKReferences;
+    ;ResolveNuGetPackageAssets;
+      FakesGenerateBeforeBuild;
+    
+ResolveNuGetPackageAssetsDependsOn = ResolveProjectReferences
+ResolveNuGetPackages = true
+ResolveReferencesDependsOn = 
+      
+      
+      BeforeResolveReferences;
+      AssignProjectConfiguration;
+      ResolveProjectReferences;
+      FindInvalidProjectReferences;
+      ResolveNativeReferences;
+      ResolveAssemblyReferences;
+      GenerateBindingRedirects;
+      ResolveComReferences;
+      AfterResolveReferences
+    ;
+      ImplicitlyExpandDesignTimeFacades
+    ;
+      ResolveTestReferences
+    
+ResolveSDKReferencesDependsOn = 
+      GetInstalledSDKLocations
+    
+RestoreContinueOnError = WarnAndContinue
+RestoreRecursive = true
+RestoreTaskAssemblyFile = NuGet.Build.Tasks.dll
+RootNamespace = ProjectJsonBuild
+RoslynTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Roslyn
+RunAfterInstall = true
+RunCodeAnalysisDependsOn = ;Compile
+RunCodeAnalysisInputs = bin\Debug\ProjectJsonBuild.exe
+RunDependsOn = 
+RunNativeCodeAnalysisInputs = 
+RuntimeIdentifiers = win;win-x86;win-x64
+SatelliteDllsProjectOutputGroupDependsOn = PrepareForBuild;PrepareResourceNames
+SDK35ToolsPath = 
+SDK40ToolsPath = C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\
+SDKRedistOutputGroupDependsOn = ResolveSDKReferences;ExpandSDKReferences
+SDKReferenceDirectoryRoot = C:\Users\ikiselev\AppData\Local\Microsoft SDKs;C:\Program Files (x86)\Microsoft SDKs
+SDKReferenceRegistryRoot = Software\Microsoft\Microsoft SDKs
+SGenFilesOutputGroupDependsOn = 
+SGenShouldGenerateSerializer = true
+SGenUseKeep = false
+SGenUseProxyTypes = true
+ShouldMarkCertainSDKReferencesAsRuntimeOnly = true
+SkipCopyUnchangedFiles = true
+SolutionDir = C:\Projects\playground\ProjectJsonBuild\
+SolutionExt = .sln
+SolutionFileName = ProjectJsonBuild.sln
+SolutionName = ProjectJsonBuild
+SolutionPath = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln
+SourceFilesProjectOutputGroupDependsOn = PrepareForBuild;AssignTargetPaths
+SubsystemVersion = 6.00
+SystemDrive = C:
+SystemRoot = C:\Windows
+TargetCulture = *
+TargetDeployManifestFileName = ProjectJsonBuild.application
+TargetDir = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\
+TargetedFrameworkDir = @(_TargetedFrameworkDirectoryItem)
+TargetedRuntimeVersion = v4.0.30319
+TargetedSDKArchitecture = msil
+TargetedSDKConfiguration = Debug
+TargetExt = .exe
+TargetFileName = ProjectJsonBuild.exe
+TargetFrameworkAsMSBuildRuntime = CurrentRuntime
+TargetFrameworkIdentifier = .NETFramework
+TargetFrameworkMoniker = .NETFramework,Version=v4.5.2
+TargetFrameworkMonikerAssemblyAttributesPath = C:\Users\ikiselev\AppData\Local\Temp\.NETFramework,Version=v4.5.2.AssemblyAttributes.cs
+TargetFrameworkSDKToolsDirectory = C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\
+TargetFrameworkVersion = v4.5.2
+TargetName = ProjectJsonBuild
+TargetPath = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe
+TargetPlatformDisplayName = Windows 7.0
+TargetPlatformIdentifier = Windows
+TargetPlatformMoniker = Windows,Version=7.0
+TargetPlatformRegistryBase = Software\Microsoft\Microsoft SDKs\Windows
+TargetPlatformSdkPath = 
+TargetPlatformVersion = 7.0
+TargetRuntime = Managed
+TaskKeyToken = 31bf3856ad364e35
+TaskVersion = 4.0.0.0
+TEMP = C:\Users\ikiselev\AppData\Local\Temp
+TemplateLanguage = CSharp
+TMP = C:\Users\ikiselev\AppData\Local\Temp
+TreatWarningsAsErrors = true
+UnmanagedRegistrationDependsOn = 
+UnmanagedUnregistrationDependsOn = 
+UpgradeSubsetToProfile = true
+UseCommonOutputDirectory = false
+UseHostCompilerIfAvailable = true
+USERDNSDOMAIN = SABA.COM
+USERDOMAIN = SABA
+USERDOMAIN_ROAMINGPROFILE = SABA
+USERNAME = ikiselev
+USERPROFILE = C:\Users\ikiselev
+UseSourcePath = true
+Utf8Output = true
+ValidateRuntimeIdentifierCompatibility = false
+VCTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\
+VCTargetsPath10 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\
+VCTargetsPath11 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\
+VCTargetsPath12 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\
+VCTargetsPath14 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\
+Version = 1.0.0.0
+VisualStudioVersion = 15.0
+VS120COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\
+VS140COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+VsInstallRoot = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise
+VSToolsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\v15.0
+WarningLevel = 4
+WebReference_EnableLegacyEventingModel = false
+WebReference_EnableProperties = true
+WebReference_EnableSQLTypes = true
+windir = C:\Windows
+WindowsSDK80Path = C:\Program Files (x86)\Windows Kits\8.1\
+WMSJSProject = WJProject
+WMSJSProjectDirectory = JavaScript
+WorkflowBuildExtensionAssemblyName = Microsoft.Activities.Build, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+WorkflowBuildExtensionKeyToken = 31bf3856ad364e35
+WorkflowBuildExtensionVersion = 4.0.0.0
+XamlBuildTaskAssemblyName = XamlBuildTask, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+XamlBuildTaskLocation = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\
+XamlBuildTaskPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\
+XamlDebuggingInformation = true
+XamlGenCodeFileNames = ProjectJsonBuild.csproj.XamlGeneratedCodeFileListAbsolute.txt
+XamlGenMarkupFileNames = ProjectJsonBuild.csproj.XamlGeneratedXamlFileListAbsolute.txt
+XamlPass2FlagFile = ProjectJsonBuild.csproj.XamlPass2Flag.txt
+XamlRequiresCompilationPass2 = false
+XamlTemporaryAssemblyName = ProjectJsonBuild
+YieldDuringToolExecution = true
+
+Initial Items:
+_ApplicationManifestFinal
+    bin\Debug\ProjectJsonBuild.exe.manifest
+        TargetPath = ProjectJsonBuild.exe.manifest
+_DebugSymbolsIntermediatePath
+    obj\Debug\ProjectJsonBuild.pdb
+_DebugSymbolsOutputPath
+    bin\Debug\ProjectJsonBuild.pdb
+_DeploymentManifestEntryPoint
+    obj\Debug\ProjectJsonBuild.exe
+        TargetPath = ProjectJsonBuild.exe
+_ExplicitReference
+    C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+_OutputPathItem
+    bin\Debug\
+_ResolveComReferenceCache
+    obj\Debug\ProjectJsonBuild.csproj.ResolveComReference.cache
+_UnmanagedRegistrationCache
+    obj\ProjectJsonBuild.csproj.UnmanagedRegistration.cache
+AppConfigFileDestination
+    bin\Debug\ProjectJsonBuild.exe.config
+ApplicationManifest
+    obj\Debug\ProjectJsonBuild.exe.manifest
+        TargetPath = ProjectJsonBuild.exe.manifest
+AvailableItemName
+    AdditionalFiles
+    CodeAnalysisDictionary
+    EntityDeploy
+    Fakes
+BuiltProjectOutputGroupKeyOutput
+    C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.exe
+        IsKeyOutput = true
+        FinalOutputPath = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe
+        TargetPath = ProjectJsonBuild.exe
+Clean
+    obj\Debug\\TempCA\ProjectJsonBuild.exe
+    obj\Debug\\TempCA\ProjectJsonBuild.pdb
+Compile
+    Program.cs
+    Properties\AssemblyInfo.cs
+CustomAdditionalCompileInputs
+    project.lock.json
+DebugSymbolsProjectOutputGroupOutput
+    C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.pdb
+        FinalOutputPath = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.pdb
+        TargetPath = ProjectJsonBuild.pdb
+DeployManifest
+    obj\Debug\ProjectJsonBuild.application
+        TargetPath = ProjectJsonBuild.application
+DocFileItem
+    bin\Debug\ProjectJsonBuild.xml
+DocumentationProjectOutputGroupOutput
+    C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+        FinalOutputPath = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+        IsKeyOutput = true
+        TargetPath = ProjectJsonBuild.xml
+FinalDocFile
+    bin\Debug\ProjectJsonBuild.xml
+IntermediateAssembly
+    obj\Debug\ProjectJsonBuild.exe
+None
+    App.config
+    project.json
+NuGetPreprocessorValue
+    assemblyname
+        Value = ProjectJsonBuild
+    filename
+        Value = ProjectJsonBuild.csproj
+    fullpath
+        Value = C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild
+    outputfilename
+        Value = ProjectJsonBuild.exe
+    rootnamespace
+        Value = ProjectJsonBuild
+ProjectCapability
+    AllTargetOutputGroups
+    AppSettings
+    AssemblyReferences
+    COMReferences
+    CSharp
+    CSharp
+    DeclaredSourceItems
+    DependenciesTree
+    LanguageService
+    LaunchProfiles
+    Managed
+    Managed
+    ManagedLang
+    NoGeneralDependentFileIcon
+    OutputGroups
+    PackageReferences
+    ProjectConfigurationsInferredFromUsage
+    ProjectReferences
+    ReferenceManagerAssemblies
+    ReferenceManagerBrowse
+    ReferenceManagerCOM
+    ReferenceManagerProjects
+    ReferenceManagerSharedProjects
+    ReferenceManagerWinRT
+    RelativePathDerivedDefaultNamespace
+    SharedProjectReferences
+    SingleFileGenerators
+    UseFileGlobs
+    UserSourceItems
+    VisualStudioWellKnownOutputGroups
+PropertyPageSchema
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\\CSharp.BrowseObject.xaml
+        Context = BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\\CSharp.ProjectItemsSchema.xaml
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\\CSharp.xaml
+        Context = File
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\AdditionalFiles.xaml
+        Context = File;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\AnalyzerReference.xaml
+        Context = Project;ProjectSubscriptionService;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\AppDesigner.xaml
+        Context = ProjectSubscriptionService
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\AssemblyReference.xaml
+        Context = ;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\CompilerCommandLineArgs.xaml
+        Context = ProjectSubscriptionService
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\COMReference.xaml
+        Context = ;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\ConfigurationGeneral.xaml
+        Context = Project;ProjectSubscriptionService
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\ConfigurationGeneralFile.xaml
+        Context = File
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\Content.xaml
+        Context = File;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\CSharp.BrowseObject.xaml
+        Context = BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\CSharp.ProjectItemsSchema.xaml
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\CSharp.xaml
+        Context = File
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\DebuggerGeneral.xaml
+        Context = Project
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\DotNetCliToolReference.xaml
+        Context = ProjectSubscriptionService;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\EmbeddedResource.xaml
+        Context = File;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\Folder.xaml
+        Context = File;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\GeneralBrowseObject.xaml
+        Context = BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\GeneralConfiguredBrowseObject.xaml
+        Context = ConfiguredBrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\None.xaml
+        Context = File;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\NuGetRestore.xaml
+        Context = ProjectSubscriptionService
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\PackageReference.xaml
+        Context = ProjectSubscriptionService;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\ProjectDebugger.xaml
+        Context = Project
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\ProjectItemsSchema.xaml
+        Context = Project
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\ProjectReference.xaml
+        Context = ;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\ResolvedAnalyzerReference.xaml
+        Context = ProjectSubscriptionService;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\ResolvedAssemblyReference.xaml
+        Context = ProjectSubscriptionService;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\ResolvedCOMReference.xaml
+        Context = ProjectSubscriptionService;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\ResolvedPackageReference.xaml
+        Context = ProjectSubscriptionService;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\ResolvedProjectReference.xaml
+        Context = ProjectSubscriptionService;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\ResolvedSdkReference.xaml
+        Context = ProjectSubscriptionService;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\SdkReference.xaml
+        Context = Project;ProjectSubscriptionService;BrowseObject
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\SourceControl.xaml
+        Context = Invisible
+    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\VisualStudio\Managed\SpecialFolder.xaml
+        Context = File;ProjectSubscriptionService
+Reference
+    Microsoft.CSharp
+    System
+    System.Core
+    System.Data
+    System.Data.DataSetExtensions
+    System.Net.Http
+    System.Xml
+    System.Xml.Linq
+XamlBuildTaskTypeGenerationExtensionName
+    Microsoft.Activities.Build.BeforeInitializeComponentExtension
+        AssemblyName = Microsoft.Activities.Build, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+        Visible = false
+    Microsoft.Activities.Build.Debugger.DebugBuildExtension
+        AssemblyName = Microsoft.Activities.Build, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+        Visible = false
+
+Building with tools version "15.0".
+Project file contains ToolsVersion="14.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="15.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=293424.
+Target "_CheckForInvalidConfigurationAndPlatform: (TargetId:6)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "BeforeRebuild" depends on it):
+Set Property: _InvalidConfigurationMessageText=The OutputPath property is not set for project 'ProjectJsonBuild.csproj'.  Please check to make sure that you have specified a valid combination of Configuration and Platform for this project.  Configuration='Debug'  Platform='AnyCPU'.
+Set Property: _InvalidConfigurationMessageText=The OutputPath property is not set for project 'ProjectJsonBuild.csproj'.  Please check to make sure that you have specified a valid combination of Configuration and Platform for this project.  Configuration='Debug'  Platform='AnyCPU'.  You may be seeing this message because you are trying to build a project without a solution file, and have specified a non-default Configuration or Platform that doesn't exist for this project.
+Task "Error" skipped, due to false condition; ( '$(_InvalidConfigurationError)' == 'true' ) was evaluated as ( '' == 'true' ).
+Task "Warning" skipped, due to false condition; ( '$(_InvalidConfigurationWarning)' == 'true' ) was evaluated as ( '' == 'true' ).
+Using "Message" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "Message" (TaskId:4)
+  Task Parameter:Text=Configuration=Debug (TaskId:4)
+  Task Parameter:Importance=Low (TaskId:4)
+  Configuration=Debug (TaskId:4)
+Done executing task "Message". (TaskId:4)
+Task "Message" (TaskId:5)
+  Task Parameter:Text=Platform=AnyCPU (TaskId:5)
+  Task Parameter:Importance=Low (TaskId:5)
+  Platform=AnyCPU (TaskId:5)
+Done executing task "Message". (TaskId:5)
+Task "Error" skipped, due to false condition; ('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)')) was evaluated as ('bin\Debug\' != '' and !HasTrailingSlash('bin\Debug\')).
+Task "Error" skipped, due to false condition; ('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)')) was evaluated as ('obj\' != '' and !HasTrailingSlash('obj\')).
+Task "Error" skipped, due to false condition; ('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)')) was evaluated as ('obj\Debug\' != '' and !HasTrailingSlash('obj\Debug\')).
+Set Property: PlatformTargetAsMSBuildArchitecture=x86
+Done building target "_CheckForInvalidConfigurationAndPlatform" in project "ProjectJsonBuild.csproj".: (TargetId:6)
+Target "BeforeRebuild: (TargetId:7)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "Rebuild" depends on it):
+Done building target "BeforeRebuild" in project "ProjectJsonBuild.csproj".: (TargetId:7)
+Target "BeforeClean: (TargetId:8)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "Clean" depends on it):
+Done building target "BeforeClean" in project "ProjectJsonBuild.csproj".: (TargetId:8)
+Target "UnmanagedUnregistration" skipped, due to false condition; ((('$(_AssemblyTimestampBeforeCompile)' != '$(_AssemblyTimestampAfterCompile)' or '$(RegisterForComInterop)' != 'true' or '$(OutputType)' != 'library') or
+                    ('$(_AssemblyTimestampBeforeCompile)' == '')) and
+                   Exists('@(_UnmanagedRegistrationCache)')) was evaluated as ((('' != '' or '' != 'true' or 'Exe' != 'library') or
+                    ('' == '')) and
+                   Exists('obj\ProjectJsonBuild.csproj.UnmanagedRegistration.cache')).
+Target "CoreClean: (TargetId:9)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "Clean" depends on it):
+Using "Delete" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "Delete" (TaskId:6)
+  Task Parameter:
+      Files=
+          obj\Debug\\TempCA\ProjectJsonBuild.pdb
+          obj\Debug\\TempCA\ProjectJsonBuild.exe (TaskId:6)
+  Task Parameter:TreatErrorsAsWarnings=True (TaskId:6)
+  File "obj\Debug\\TempCA\ProjectJsonBuild.pdb" doesn't exist. Skipping. (TaskId:6)
+  File "obj\Debug\\TempCA\ProjectJsonBuild.exe" doesn't exist. Skipping. (TaskId:6)
+Done executing task "Delete". (TaskId:6)
+Using "ReadLinesFromFile" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "ReadLinesFromFile" (TaskId:7)
+  Task Parameter:File=obj\Debug\ProjectJsonBuild.csproj.FileListAbsolute.txt (TaskId:7)
+  Output Item(s): 
+      _CleanPriorFileWrites=
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe.config
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.pdb
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.pdb (TaskId:7)
+Done executing task "ReadLinesFromFile". (TaskId:7)
+Using "FindUnderPath" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "FindUnderPath" (TaskId:8)
+  Task Parameter:Path=bin\Debug\ (TaskId:8)
+  Task Parameter:
+      Files=
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe.config
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.pdb
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.pdb (TaskId:8)
+  Comparison path is "bin\Debug\". (TaskId:8)
+  Output Item(s): 
+      _CleanPriorFileWritesInOutput=
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe.config
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.pdb (TaskId:8)
+Done executing task "FindUnderPath". (TaskId:8)
+Task "FindUnderPath" (TaskId:9)
+  Task Parameter:Path=obj\Debug\ (TaskId:9)
+  Task Parameter:
+      Files=
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe.config
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.pdb
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.pdb (TaskId:9)
+  Comparison path is "obj\Debug\". (TaskId:9)
+  Output Item(s): 
+      _CleanPriorFileWritesInIntermediate=
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.pdb (TaskId:9)
+Done executing task "FindUnderPath". (TaskId:9)
+Task "Delete" (TaskId:10)
+  Task Parameter:
+      Files=
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe.config
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.pdb
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.pdb (TaskId:10)
+  Task Parameter:TreatErrorsAsWarnings=True (TaskId:10)
+  Deleting file "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml". (TaskId:10)
+  File "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe.config" doesn't exist. Skipping. (TaskId:10)
+  File "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe" doesn't exist. Skipping. (TaskId:10)
+  File "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.pdb" doesn't exist. Skipping. (TaskId:10)
+  Deleting file "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache". (TaskId:10)
+  File "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.exe" doesn't exist. Skipping. (TaskId:10)
+  File "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.pdb" doesn't exist. Skipping. (TaskId:10)
+  Output Item(s): 
+      _CleanPriorFileWritesDeleted=
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+                  OriginalItemSpec=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe.config
+                  OriginalItemSpec=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe.config
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe
+                  OriginalItemSpec=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.pdb
+                  OriginalItemSpec=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.pdb
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache
+                  OriginalItemSpec=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.exe
+                  OriginalItemSpec=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.pdb
+                  OriginalItemSpec=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.pdb (TaskId:10)
+Done executing task "Delete". (TaskId:10)
+Using "RemoveDuplicates" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "RemoveDuplicates" (TaskId:11)
+Done executing task "RemoveDuplicates". (TaskId:11)
+Using "MakeDir" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "MakeDir" (TaskId:12)
+  Task Parameter:Directories=obj\Debug\ (TaskId:12)
+Done executing task "MakeDir". (TaskId:12)
+Using "WriteLinesToFile" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "WriteLinesToFile" (TaskId:13)
+  Task Parameter:File=obj\Debug\ProjectJsonBuild.csproj.FileListAbsolute.txt (TaskId:13)
+  Task Parameter:Overwrite=True (TaskId:13)
+Done executing task "WriteLinesToFile". (TaskId:13)
+Done building target "CoreClean" in project "ProjectJsonBuild.csproj".: (TargetId:9)
+Target "AssignProjectConfiguration: (TargetId:10)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "PrepareProjectReferences" depends on it):
+Set Property: OnlyReferenceAndBuildProjectsEnabledInSolutionConfiguration=true
+Set Property: ShouldUnsetParentConfigurationAndPlatform=true
+Set Property: AddSyntheticProjectReferencesForSolutionDependencies=true
+Using "AssignProjectConfiguration" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "AssignProjectConfiguration" (TaskId:14)
+  Task Parameter:CurrentProject=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj (TaskId:14)
+  Task Parameter:CurrentProjectConfiguration=Debug (TaskId:14)
+  Task Parameter:CurrentProjectPlatform=AnyCPU (TaskId:14)
+  Task Parameter:OutputType=Exe (TaskId:14)
+  Task Parameter:ResolveConfigurationPlatformUsingMappings=False (TaskId:14)
+  Task Parameter:SolutionConfigurationContents=<SolutionConfiguration>
+    <ProjectConfiguration Project="{6C01C1E4-613C-407C-A9CE-487E9BA7B62B}" AbsolutePath="C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" BuildProjectInSolution="True">Debug|AnyCPU</ProjectConfiguration>
+  </SolutionConfiguration> (TaskId:14)
+  Task Parameter:AddSyntheticProjectReferencesForSolutionDependencies=True (TaskId:14)
+  Task Parameter:OnlyReferenceAndBuildProjectsEnabledInSolutionConfiguration=True (TaskId:14)
+  Task Parameter:ShouldUnsetParentConfigurationAndPlatform=True (TaskId:14)
+Done executing task "AssignProjectConfiguration". (TaskId:14)
+Done building target "AssignProjectConfiguration" in project "ProjectJsonBuild.csproj".: (TargetId:10)
+Target "_SplitProjectReferencesByFileExistence: (TargetId:11)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "PrepareProjectReferences" depends on it):
+Task "ResolveNonMSBuildProjectOutput" skipped, due to false condition; ('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!='') was evaluated as (''=='true' and ''!='').
+Done building target "_SplitProjectReferencesByFileExistence" in project "ProjectJsonBuild.csproj".: (TargetId:11)
+Target "_GetProjectReferenceTargetFrameworkProperties: (TargetId:12)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "PrepareProjectReferences" depends on it):
+Set Property: ReferringTargetFrameworkForProjectReferences=.NETFramework,Version=v4.5.2
+Using "MSBuild" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "MSBuild" (TaskId:15)
+  Task Parameter:Targets=GetTargetFrameworkProperties (TaskId:15)
+  Task Parameter:BuildInParallel=True (TaskId:15)
+  Task Parameter:Properties=ReferringTargetFramework=.NETFramework,Version=v4.5.2 (TaskId:15)
+  Task Parameter:RemoveProperties=;TargetFramework (TaskId:15)
+  Output Property: _ProjectReferenceTargetFrameworkProperties= (TaskId:15)
+Done executing task "MSBuild". (TaskId:15)
+Set Property: _ProjectReferenceTargetFrameworkProperties=
+Done building target "_GetProjectReferenceTargetFrameworkProperties" in project "ProjectJsonBuild.csproj".: (TargetId:12)
+Target "PrepareProjectReferences: (TargetId:13)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "CleanReferencedProjects" depends on it):
+Done building target "PrepareProjectReferences" in project "ProjectJsonBuild.csproj".: (TargetId:13)
+Target "CleanReferencedProjects: (TargetId:14)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "Clean" depends on it):
+Task "MSBuild" skipped, due to false condition; ('$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' != 'true' and 'true' == 'true' and '' != '').
+Done building target "CleanReferencedProjects" in project "ProjectJsonBuild.csproj".: (TargetId:14)
+Target "CleanPublishFolder: (TargetId:15)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "Clean" depends on it):
+Task "RemoveDir" skipped, due to false condition; ('$(PublishDir)'=='$(OutputPath)app.publish\' and Exists('$(PublishDir)')) was evaluated as ('bin\Debug\app.publish\'=='bin\Debug\app.publish\' and Exists('bin\Debug\app.publish\')).
+Done building target "CleanPublishFolder" in project "ProjectJsonBuild.csproj".: (TargetId:15)
+Target "AfterClean: (TargetId:16)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "Clean" depends on it):
+Done building target "AfterClean" in project "ProjectJsonBuild.csproj".: (TargetId:16)
+Target "EntityClean" skipped, due to false condition; ('@(EntityDeploy)' != '') was evaluated as ('' != '').
+Target "Clean: (TargetId:17)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "Rebuild" depends on it):
+Done building target "Clean" in project "ProjectJsonBuild.csproj".: (TargetId:17)
+Target "CleanXsdCodeGen: (TargetId:18)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.ServiceModel.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "Rebuild" depends on it):
+Task "Delete" (TaskId:16)
+Done executing task "Delete". (TaskId:16)
+Done building target "CleanXsdCodeGen" in project "ProjectJsonBuild.csproj".: (TargetId:18)
+Target "EntityDeploy" skipped, due to false condition; ('@(EntityDeploy)' != '') was evaluated as ('' != '').
+Target "BeforeBuild: (TargetId:19)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "Build" depends on it):
+Done building target "BeforeBuild" in project "ProjectJsonBuild.csproj".: (TargetId:19)
+Target "BuildOnlySettings: (TargetId:20)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "CoreBuild" depends on it):
+Set Property: BuildingProject=true
+Done building target "BuildOnlySettings" in project "ProjectJsonBuild.csproj".: (TargetId:20)
+Target "GetFrameworkPaths: (TargetId:21)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.NETFramework.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "PrepareForBuild" depends on it):
+Added Item(s): _TargetFramework40DirectoryItem=C:\Windows\Microsoft.NET\Framework\v4.0.30319
+Added Item(s): _TargetFramework35DirectoryItem=C:\Windows\Microsoft.NET\Framework\v3.5
+Added Item(s): _TargetFramework30DirectoryItem=C:\Windows\Microsoft.NET\Framework\v3.0
+Added Item(s): _TargetFramework20DirectoryItem=C:\Windows\Microsoft.NET\Framework\v2.0.50727
+Added Item(s): _TargetedFrameworkDirectoryItem=C:\Windows\Microsoft.NET\Framework\v4.0.30319
+Added Item(s): _CombinedTargetFrameworkDirectoriesItem=C:\Windows\Microsoft.NET\Framework\v4.0.30319
+Set Property: TargetFrameworkDirectory=C:\Windows\Microsoft.NET\Framework\v4.0.30319
+Set Property: TargetFrameworkSDKDirectory=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\
+Added Item(s): _TargetFrameworkSDKDirectoryItem=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\
+Done building target "GetFrameworkPaths" in project "ProjectJsonBuild.csproj".: (TargetId:21)
+Target "GetWinFXPath" skipped, due to false condition; (('@(Page)' != '' or '@(ApplicationDefinition)' != '' or '@(Resource)' != '') and ('$(GetWinFXNativePath)' != '' or '$(GetWinFXWoWPath)' != '' )) was evaluated as (('' != '' or '' != '' or '' != '') and ('' != '' or '' != '' )).
+Target "GetReferenceAssemblyPaths: (TargetId:22)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "PrepareForBuild" depends on it):
+Set Property: TargetFrameworkDirectory=
+Using "GetReferenceAssemblyPaths" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "GetReferenceAssemblyPaths" (TaskId:17)
+  Task Parameter:TargetFrameworkMoniker=.NETFramework,Version=v4.5.2 (TaskId:17)
+  Output Property: _TargetFrameworkDirectories=C:\Program Files %28x86%29\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\ (TaskId:17)
+  Output Property: _FullFrameworkReferenceAssemblyPaths=C:\Program Files %28x86%29\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\ (TaskId:17)
+  Output Property: TargetFrameworkMonikerDisplayName=.NET Framework 4.5.2 (TaskId:17)
+Done executing task "GetReferenceAssemblyPaths". (TaskId:17)
+Set Property: TargetFrameworkDirectory=C:\Program Files %28x86%29\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\;;
+Set Property: RemoveAssemblyFoldersIfNoTargetFramework=true
+Added Item(s): DesignTimeFacadeDirectoryRoots=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\
+Added Item(s): DesignTimeFacadeDirectories=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\
+Set Property: TargetFrameworkDirectory=C:\Program Files %28x86%29\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\;;;C:\Program Files %28x86%29\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\
+Done building target "GetReferenceAssemblyPaths" in project "ProjectJsonBuild.csproj".: (TargetId:22)
+Target "AssignLinkMetadata" skipped, due to false condition; ( '$(SynthesizeLinkMetadata)' == 'true' ) was evaluated as ( '' == 'true' ).
+Target "PrepareForBuild: (TargetId:23)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "CoreBuild" depends on it):
+Using "FindAppConfigFile" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "FindAppConfigFile" (TaskId:18)
+  Task Parameter:
+      PrimaryList=
+          App.config
+          project.json (TaskId:18)
+  Task Parameter:TargetPath=ProjectJsonBuild.exe.config (TaskId:18)
+  Found "App.config". (TaskId:18)
+  Output Item(s): 
+      AppConfigWithTargetPath=
+          App.config
+                  OriginalItemSpec=App.config
+                  TargetPath=ProjectJsonBuild.exe.config (TaskId:18)
+  Output Property: AppConfig=App.config (TaskId:18)
+Done executing task "FindAppConfigFile". (TaskId:18)
+Task "MakeDir" (TaskId:19)
+  Task Parameter:
+      Directories=
+          bin\Debug\
+          obj\Debug\
+          bin\Debug\ (TaskId:19)
+Done executing task "MakeDir". (TaskId:19)
+Done building target "PrepareForBuild" in project "ProjectJsonBuild.csproj".: (TargetId:23)
+Target "PreBuildEvent" skipped, due to false condition; ('$(PreBuildEvent)'!='') was evaluated as (''!='').
+Target "BeforeResolveReferences: (TargetId:24)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "ResolveReferences" depends on it):
+Done building target "BeforeResolveReferences" in project "ProjectJsonBuild.csproj".: (TargetId:24)
+Target "AssignProjectConfiguration" skipped. Previously built successfully.
+Target "PrepareProjectReferences" skipped. Previously built successfully.
+Target "ResolveProjectReferences: (TargetId:25)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "ResolveReferences" depends on it):
+Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' != '10.0' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and ('' == 'true' or 'true' != 'true') and '15.0' != '10.0' and '' != '').
+Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' == '10.0' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and ('' == 'true' or 'true' != 'true') and '15.0' == '10.0' and '' != '').
+Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and '' != 'true' and 'true' == 'true' and '' != '').
+Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingProject)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and 'true' == 'true' and '' != '').
+Task "Warning" skipped, due to false condition; ('@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceNonexistent)' != '') was evaluated as ('' != '' and '' != '').
+Done building target "ResolveProjectReferences" in project "ProjectJsonBuild.csproj".: (TargetId:25)
+Target "FindInvalidProjectReferences" skipped, due to false condition; ('$(FindInvalidProjectReferences)' == 'true') was evaluated as ('' == 'true').
+Target "ResolveNativeReferences" skipped, due to false condition; ('@(NativeReference)'!='') was evaluated as (''!='').
+Target "GetFrameworkPaths" skipped. Previously built successfully.
+Target "GetReferenceAssemblyPaths" skipped. Previously built successfully.
+Target "PrepareForBuild" skipped. Previously built successfully.
+Target "GetInstalledSDKLocations: (TargetId:26)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "ResolveSDKReferences" depends on it):
+Task "GetInstalledSDKLocations" skipped, due to false condition; ('@(SDKReference)' != '') was evaluated as ('' != '').
+Task "GetInstalledSDKLocations" skipped, due to false condition; ('@(SDKReference)' != '' and '$(SupportWindows81SDKs)' == 'true' and '$(TargetPlatformIdentifierWindows81)' != '' and '$(TargetPlatformVersionWindows81)' != '') was evaluated as ('' != '' and '' == 'true' and '' != '' and '' != '').
+Task "GetInstalledSDKLocations" skipped, due to false condition; ('@(SDKReference)' != '' and '$(SupportWindowsPhone81SDKs)' == 'true' and '$(TargetPlatformIdentifierWindowsPhone81)' != '' and '$(TargetPlatformVersionWindowsPhone81)' != '') was evaluated as ('' != '' and '' == 'true' and '' != '' and '' != '').
+Done building target "GetInstalledSDKLocations" in project "ProjectJsonBuild.csproj".: (TargetId:26)
+Target "ResolveSDKReferences: (TargetId:27)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "ResolveAssemblyReferences" depends on it):
+Task "ResolveSDKReference" skipped, due to false condition; ('@(SDKReference)'!='') was evaluated as (''!='').
+Done building target "ResolveSDKReferences" in project "ProjectJsonBuild.csproj".: (TargetId:27)
+Target "ResolveSDKReferences" skipped. Previously built successfully.
+Target "ExpandSDKReferences: (TargetId:28)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "ResolveAssemblyReferences" depends on it):
+Task "GetSDKReferenceFiles" skipped, due to false condition; ('@(ResolvedSDKReference)'!='') was evaluated as (''!='').
+Done building target "ExpandSDKReferences" in project "ProjectJsonBuild.csproj".: (TargetId:28)
+Target "ResolveProjectReferences" skipped. Previously built successfully.
+Target "ResolveNuGetPackageAssets: (TargetId:29)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\NuGet\15.0\Microsoft.NuGet.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "ResolveAssemblyReferences" depends on it):
+Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.Extension)' == '.xproj') was evaluated as ('' == '.xproj').
+Using "ResolveNuGetPackageAssets" task from assembly "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Microsoft\NuGet\15.0\Microsoft.NuGet.Build.Tasks.dll".
+Task "ResolveNuGetPackageAssets" (TaskId:20)
+  Task Parameter:IncludeFrameworkReferences=True (TaskId:20)
+  Task Parameter:RuntimeIdentifier=win (TaskId:20)
+  Task Parameter:ProjectLanguage=C# (TaskId:20)
+  Task Parameter:ProjectLockFile=project.lock.json (TaskId:20)
+  Task Parameter:
+      ContentPreprocessorValues=
+          rootnamespace
+                  Value=ProjectJsonBuild
+          assemblyname
+                  Value=ProjectJsonBuild
+          fullpath
+                  Value=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild
+          outputfilename
+                  Value=ProjectJsonBuild.exe
+          filename
+                  Value=ProjectJsonBuild.csproj (TaskId:20)
+  Task Parameter:ContentPreprocessorOutputDirectory=obj\Debug\\NuGet (TaskId:20)
+  Task Parameter:TargetMonikers=.NETFramework,Version=v4.5.2 (TaskId:20)
+  Output Item(s): ReferencedNuGetPackages=Sample.Targets.Common (TaskId:20)
+Done executing task "ResolveNuGetPackageAssets". (TaskId:20)
+Set Property: DTARUseReferencesFromProject=true
+Task "CreateItem" skipped, due to false condition; ('@(_NuGetContentItems)' != '') was evaluated as ('' != '').
+Done building target "ResolveNuGetPackageAssets" in project "ProjectJsonBuild.csproj".: (TargetId:29)
+Target "FakesGenerateBeforeBuild" skipped, due to false condition; (@(Fakes) != '' AND $(BuildingProject)) was evaluated as ( != '' AND true).
+Target "ResolveAssemblyReferences: (TargetId:30)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "ResolveReferences" depends on it):
+Added Item(s): 
+    _ReferenceInstalledAssemblyDirectory=
+        C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\
+        C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\
+Set Property: ResolveAssemblyReferencesStateFile=obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache
+Added Item(s): 
+    _ResolveAssemblyReferencesApplicationConfigFileForExes=
+        App.config
+                OriginalItemSpec=App.config
+                TargetPath=ProjectJsonBuild.exe.config
+Set Property: ResolveAssemblyReferencesSilent=false
+Set Property: ResolveAssemblyWarnOrErrorOnTargetArchitectureMismatch=Warning
+Removed Item(s): Reference=System.Core
+Added Item(s): 
+    Reference=
+        System.Core
+                Implicit=true
+Using "ResolveAssemblyReference" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "ResolveAssemblyReference" (TaskId:21)
+  Task Parameter:
+      Assemblies=
+          System
+          System.Xml.Linq
+          System.Data.DataSetExtensions
+          Microsoft.CSharp
+          System.Data
+          System.Net.Http
+          System.Xml
+          System.Core
+                  Implicit=true (TaskId:21)
+  Task Parameter:AssemblyFiles=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll (TaskId:21)
+  Task Parameter:
+      TargetFrameworkDirectories=
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\ (TaskId:21)
+  Task Parameter:
+      CandidateAssemblyFiles=
+          App.config
+          project.json (TaskId:21)
+  Task Parameter:
+      SearchPaths=
+          {CandidateAssemblyFiles}
+          {HintPathFromItem}
+          {TargetFrameworkDirectory}
+          {AssemblyFoldersFromConfig:C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\AssemblyFolders.config,v4.5.2}
+          {Registry:Software\Microsoft\.NETFramework,v4.5.2,AssemblyFoldersEx}
+          {AssemblyFolders}
+          {GAC}
+          {RawFileName}
+          bin\Debug\ (TaskId:21)
+  Task Parameter:
+      AllowedAssemblyExtensions=
+          .winmd
+          .dll
+          .exe (TaskId:21)
+  Task Parameter:
+      AllowedRelatedFileExtensions=
+          .pdb
+          .xml
+          .pri
+          .dll.config
+          .exe.config (TaskId:21)
+  Task Parameter:TargetProcessorArchitecture=msil (TaskId:21)
+  Task Parameter:AppConfigFile=App.config (TaskId:21)
+  Task Parameter:AutoUnify=True (TaskId:21)
+  Task Parameter:SupportsBindingRedirectGeneration=True (TaskId:21)
+  Task Parameter:FindSatellites=True (TaskId:21)
+  Task Parameter:FindSerializationAssemblies=True (TaskId:21)
+  Task Parameter:FindRelatedFiles=True (TaskId:21)
+  Task Parameter:Silent=False (TaskId:21)
+  Task Parameter:TargetFrameworkVersion=v4.5.2 (TaskId:21)
+  Task Parameter:TargetFrameworkMoniker=.NETFramework,Version=v4.5.2 (TaskId:21)
+  Task Parameter:TargetFrameworkMonikerDisplayName=.NET Framework 4.5.2 (TaskId:21)
+  Task Parameter:TargetedRuntimeVersion=v4.0.30319 (TaskId:21)
+  Task Parameter:StateFile=obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache (TaskId:21)
+  Task Parameter:FullTargetFrameworkSubsetNames=Full (TaskId:21)
+  Task Parameter:FullFrameworkFolders=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\ (TaskId:21)
+  Task Parameter:WarnOrErrorOnTargetArchitectureMismatch=Warning (TaskId:21)
+  TargetFrameworkMoniker: (TaskId:21)
+      .NETFramework,Version=v4.5.2 (TaskId:21)
+  TargetFrameworkMonikerDisplayName: (TaskId:21)
+      .NET Framework 4.5.2 (TaskId:21)
+  TargetedRuntimeVersion: (TaskId:21)
+      v4.0.30319 (TaskId:21)
+  Assemblies: (TaskId:21)
+      System (TaskId:21)
+      System.Xml.Linq (TaskId:21)
+      System.Data.DataSetExtensions (TaskId:21)
+      Microsoft.CSharp (TaskId:21)
+      System.Data (TaskId:21)
+      System.Net.Http (TaskId:21)
+      System.Xml (TaskId:21)
+      System.Core (TaskId:21)
+  AssemblyFiles: (TaskId:21)
+      C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll (TaskId:21)
+  CandidateAssemblyFiles: (TaskId:21)
+  TargetFrameworkDirectories: (TaskId:21)
+      C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\,C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\ (TaskId:21)
+  InstalledAssemblyTables: (TaskId:21)
+  IgnoreInstalledAssemblyTable: (TaskId:21)
+      False (TaskId:21)
+  SearchPaths: (TaskId:21)
+      {CandidateAssemblyFiles} (TaskId:21)
+      {HintPathFromItem} (TaskId:21)
+      {TargetFrameworkDirectory} (TaskId:21)
+      {AssemblyFoldersFromConfig:C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\AssemblyFolders.config,v4.5.2} (TaskId:21)
+      {Registry:Software\Microsoft\.NETFramework,v4.5.2,AssemblyFoldersEx} (TaskId:21)
+      {AssemblyFolders} (TaskId:21)
+      {GAC} (TaskId:21)
+      {RawFileName} (TaskId:21)
+      bin\Debug\ (TaskId:21)
+  AllowedAssemblyExtensions: (TaskId:21)
+      .winmd (TaskId:21)
+      .dll (TaskId:21)
+      .exe (TaskId:21)
+  AllowedRelatedFileExtensions: (TaskId:21)
+      .pdb (TaskId:21)
+      .xml (TaskId:21)
+      .pri (TaskId:21)
+      .dll.config (TaskId:21)
+      .exe.config (TaskId:21)
+  AppConfigFile: (TaskId:21)
+      App.config (TaskId:21)
+  AutoUnify: (TaskId:21)
+      True (TaskId:21)
+  CopyLocalDependenciesWhenParentReferenceInGac: (TaskId:21)
+      True (TaskId:21)
+  FindDependencies: (TaskId:21)
+      True (TaskId:21)
+  TargetProcessorArchitecture: (TaskId:21)
+      msil (TaskId:21)
+  StateFile: (TaskId:21)
+      obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache (TaskId:21)
+  InstalledAssemblySubsetTables: (TaskId:21)
+  IgnoreInstalledAssemblySubsetTable: (TaskId:21)
+      False (TaskId:21)
+  TargetFrameworkSubsets: (TaskId:21)
+  FullTargetFrameworkSubsetNames: (TaskId:21)
+      Full (TaskId:21)
+  ProfileName: (TaskId:21)
+       (TaskId:21)
+  FullFrameworkFolders: (TaskId:21)
+      C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\ (TaskId:21)
+  LatestTargetFrameworkDirectories: (TaskId:21)
+  ProfileTablesLocation: (TaskId:21)
+  Primary reference "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:21)
+      Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll". (TaskId:21)
+      Reference found at search path location "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll". (TaskId:21)
+      This reference is not "CopyLocal" because it's in a Frameworks directory. (TaskId:21)
+      The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:21)
+  Primary reference "System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:21)
+      Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll". (TaskId:21)
+      Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:21)
+          For SearchPath "{TargetFrameworkDirectory}". (TaskId:21)
+          Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.winmd", but it didn't exist. (TaskId:21)
+      This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:21)
+      The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:21)
+  Primary reference "System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:21)
+      Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.Linq.dll". (TaskId:21)
+      Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:21)
+          For SearchPath "{TargetFrameworkDirectory}". (TaskId:21)
+          Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.Linq.winmd", but it didn't exist. (TaskId:21)
+      This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:21)
+      The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:21)
+  Primary reference "System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:21)
+      Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.DataSetExtensions.dll". (TaskId:21)
+      Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:21)
+          For SearchPath "{TargetFrameworkDirectory}". (TaskId:21)
+          Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.DataSetExtensions.winmd", but it didn't exist. (TaskId:21)
+      This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:21)
+      The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:21)
+  Primary reference "Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a". (TaskId:21)
+      Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll". (TaskId:21)
+      Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:21)
+          For SearchPath "{TargetFrameworkDirectory}". (TaskId:21)
+          Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.winmd", but it didn't exist. (TaskId:21)
+      This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:21)
+      The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:21)
+  Primary reference "System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:21)
+      Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll". (TaskId:21)
+      Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:21)
+          For SearchPath "{TargetFrameworkDirectory}". (TaskId:21)
+          Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.winmd", but it didn't exist. (TaskId:21)
+      This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:21)
+      The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:21)
+  Primary reference "System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a". (TaskId:21)
+      Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll". (TaskId:21)
+      Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:21)
+          For SearchPath "{TargetFrameworkDirectory}". (TaskId:21)
+          Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.winmd", but it didn't exist. (TaskId:21)
+      This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:21)
+      The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:21)
+  Primary reference "System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:21)
+      Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll". (TaskId:21)
+      Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:21)
+          For SearchPath "{TargetFrameworkDirectory}". (TaskId:21)
+          Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.winmd", but it didn't exist. (TaskId:21)
+      This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:21)
+      The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:21)
+  Primary reference "System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:21)
+      Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll". (TaskId:21)
+      Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:21)
+          For SearchPath "{TargetFrameworkDirectory}". (TaskId:21)
+          Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.winmd", but it didn't exist. (TaskId:21)
+      This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:21)
+      The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:21)
+  Output Item(s): 
+      ReferencePath=
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=Microsoft.CSharp
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  Implicit=true
+                  OriginalItemSpec=System.Core
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.DataSetExtensions.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Data.DataSetExtensions
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Data
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Net.Http
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Xml
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.Linq.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Xml.Linq
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0 (TaskId:21)
+  Output Item(s): 
+      _ResolveAssemblyReferenceResolvedFiles=
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=Microsoft.CSharp
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  Implicit=true
+                  OriginalItemSpec=System.Core
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.DataSetExtensions.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Data.DataSetExtensions
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Data
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Net.Http
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Xml
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.Linq.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Xml.Linq
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0 (TaskId:21)
+  Output Item(s): FileWrites=obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache (TaskId:21)
+  Output Property: DependsOnSystemRuntime=False (TaskId:21)
+Done executing task "ResolveAssemblyReference". (TaskId:21)
+Done building target "ResolveAssemblyReferences" in project "ProjectJsonBuild.csproj".: (TargetId:30)
+Target "GenerateBindingRedirects: (TargetId:31)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "ResolveReferences" depends on it):
+Building target "GenerateBindingRedirects" completely.
+Output file "obj\Debug\ProjectJsonBuild.csproj.ProjectJsonBuild.exe.config" does not exist.
+Using "GenerateBindingRedirects" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "GenerateBindingRedirects" (TaskId:22)
+  Task Parameter:AppConfigFile=App.config
+                  OriginalItemSpec=App.config
+                  TargetPath=ProjectJsonBuild.exe.config (TaskId:22)
+  Task Parameter:TargetName=ProjectJsonBuild.exe.config (TaskId:22)
+  Task Parameter:OutputAppConfigFile=obj\Debug\ProjectJsonBuild.csproj.ProjectJsonBuild.exe.config (TaskId:22)
+  No suggested binding redirects from ResolveAssemblyReferences. (TaskId:22)
+  Output Item(s): FileWrites= (TaskId:22)
+Done executing task "GenerateBindingRedirects". (TaskId:22)
+Done building target "GenerateBindingRedirects" in project "ProjectJsonBuild.csproj".: (TargetId:31)
+Target "GenerateBindingRedirectsUpdateAppConfig" skipped, due to false condition; ('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true' and Exists('$(_GenerateBindingRedirectsIntermediateAppConfig)')) was evaluated as ('true' == 'true' and 'true' == 'true' and Exists('obj\Debug\ProjectJsonBuild.csproj.ProjectJsonBuild.exe.config')).
+Target "ResolveComReferences" skipped, due to false condition; ('@(COMReference)'!='' or '@(COMFileReference)'!='') was evaluated as (''!='' or ''!='').
+Target "AfterResolveReferences: (TargetId:32)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "ResolveReferences" depends on it):
+Done building target "AfterResolveReferences" in project "ProjectJsonBuild.csproj".: (TargetId:32)
+Target "GetReferenceAssemblyPaths" skipped. Previously built successfully.
+Target "ImplicitlyExpandDesignTimeFacades: (TargetId:33)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.NETFramework.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "ResolveReferences" depends on it):
+Task "Message" skipped, due to false condition; ('%(ReferencePath.ResolvedFrom)' == 'ImplicitlyExpandDesignTimeFacades') was evaluated as ('{TargetFrameworkDirectory}' == 'ImplicitlyExpandDesignTimeFacades').
+Task "Message" skipped, due to false condition; ('%(ReferencePath.ResolvedFrom)' == 'ImplicitlyExpandDesignTimeFacades') was evaluated as ('C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll' == 'ImplicitlyExpandDesignTimeFacades').
+Done building target "ImplicitlyExpandDesignTimeFacades" in project "ProjectJsonBuild.csproj".: (TargetId:33)
+Target "ResolveTestReferences" skipped, due to false condition; ('@(Shadow)'!='') was evaluated as (''!='').
+Target "ResolveReferences: (TargetId:34)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "CoreBuild" depends on it):
+Done building target "ResolveReferences" in project "ProjectJsonBuild.csproj".: (TargetId:34)
+Target "ResolveNuGetPackageAssets" skipped. Previously built successfully.
+Target "ValidationExtension: (TargetId:35)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WorkflowBuildExtensions.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "PrepareResources" depends on it):
+Task "WorkflowBuildMessageTask" skipped, due to false condition; ('$(SkipWorkflowValidation)'!='' and '$(SkipWorkflowValidation)'!='true' and '$(SkipWorkflowValidation)'!='false') was evaluated as (''!='' and ''!='true' and ''!='false').
+Added Item(s): 
+    XamlBuildTaskTypeInspectionExtensionName=
+        Microsoft.Activities.Build.Validation.ValidationBuildExtension
+                AssemblyName=Microsoft.Activities.Build, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+                Visible=false
+Done building target "ValidationExtension" in project "ProjectJsonBuild.csproj".: (TargetId:35)
+Target "ExpressionBuildExtension: (TargetId:36)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WorkflowBuildExtensions.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "PrepareResources" depends on it):
+Task "WorkflowBuildMessageTask" skipped, due to false condition; ('$(DisableWorkflowCompiledExpressions)'!='' and '$(DisableWorkflowCompiledExpressions)'!='true' and '$(DisableWorkflowCompiledExpressions)'!='false') was evaluated as (''!='' and ''!='true' and ''!='false').
+Added Item(s): 
+    XamlBuildTaskTypeInspectionExtensionName=
+        Microsoft.Activities.Build.Expressions.ExpressionsBuildExtension
+                AssemblyName=Microsoft.Activities.Build, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+                Visible=false
+Done building target "ExpressionBuildExtension" in project "ProjectJsonBuild.csproj".: (TargetId:36)
+Target "XamlMarkupCompilePass1" skipped, due to false condition; ('@(XamlPage)' != '' or '@(XamlAppDef)' != '') was evaluated as ('' != '' or '' != '').
+Target "XamlMarkupCompileReadGeneratedFileList" skipped, due to false condition; ('@(XamlPage)' != '' or '@(XamlAppDef)' != '') was evaluated as ('' != '' or '' != '').
+Target "XamlMarkupCompileAddFilesGenerated" skipped, due to false condition; ('@(XamlPage)' != '' or '@(XamlAppDef)' != '') was evaluated as ('' != '' or '' != '').
+Target "XamlMarkupCompilePass2" skipped, due to false condition; ('$(XamlRequiresCompilationPass2)' == 'true' ) was evaluated as ('false' == 'true' ).
+Target "XamlMarkupCompileReadPass2Flag" skipped, due to false condition; ('@(XamlPage)' != '' or '@(XamlAppDef)' != '') was evaluated as ('' != '' or '' != '').
+Target "XamlMarkupCompileAddExtensionFilesGenerated" skipped, due to false condition; ('@(XamlPage)' != '' or '@(XamlAppDef)' != '') was evaluated as ('' != '' or '' != '').
+Target "AddDeferredValidationErrorsFileToFileWrites" skipped, due to false condition; (Exists('$(DeferredValidationErrorsFileName)')) was evaluated as (Exists('obj\Debug\\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml')).
+Target "ReportValidationBuildExtensionErrors" skipped, due to false condition; ('$(SkipWorkflowValidation)' != 'true' and ('@(XamlPage)' != '' or '@(XamlAppDef)' != '')) was evaluated as ('' != 'true' and ('' != '' or '' != '')).
+Target "MarkupCompilePass1" skipped, due to false condition; ('@(Page)' != '' or '@(ApplicationDefinition)' != '' ) was evaluated as ('' != '' or '' != '' ).
+Target "AfterMarkupCompilePass1: (TargetId:37)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "PrepareResources" depends on it):
+Done building target "AfterMarkupCompilePass1" in project "ProjectJsonBuild.csproj".: (TargetId:37)
+Target "MarkupCompilePass2ForMainAssembly" skipped, due to false condition; ('$(_RequireMCPass2ForMainAssembly)' == 'true' ) was evaluated as ('false' == 'true' ).
+Target "FileClassification: (TargetId:38)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "PrepareResources" depends on it):
+Task "FileClassifier" skipped, due to false condition; ('@(GeneratedBaml)' != '' or '@(Resource)' != '' or '@(Font)' != '') was evaluated as ('' != '' or '' != '' or '' != '').
+Task "Message" skipped, due to false condition; ('$(MSBuildTargetsVerbose)'=='true') was evaluated as (''=='true').
+Task "Message" skipped, due to false condition; ('$(MSBuildTargetsVerbose)'=='true') was evaluated as (''=='true').
+Done building target "FileClassification" in project "ProjectJsonBuild.csproj".: (TargetId:38)
+Target "MainResourcesGeneration" skipped, due to false condition; ('@(MainEmbeddedFiles)' != '') was evaluated as ('' != '').
+Target "AssignWinFXEmbeddedResource" skipped, due to false condition; ('@(WinFXEmbeddedResource)' != '') was evaluated as ('' != '').
+Target "AssignTargetPaths: (TargetId:39)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "PrepareResourceNames" depends on it):
+Using "AssignTargetPath" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "AssignTargetPath" (TaskId:23)
+  Task Parameter:RootFolder=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild (TaskId:23)
+Done executing task "AssignTargetPath". (TaskId:23)
+Task "AssignTargetPath" (TaskId:24)
+  Task Parameter:RootFolder=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild (TaskId:24)
+Done executing task "AssignTargetPath". (TaskId:24)
+Task "AssignTargetPath" (TaskId:25)
+  Task Parameter:
+      Files=
+          App.config
+          project.json (TaskId:25)
+  Task Parameter:RootFolder=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild (TaskId:25)
+  Output Item(s): 
+      _NoneWithTargetPath=
+          App.config
+                  OriginalItemSpec=App.config
+                  TargetPath=App.config
+          project.json
+                  OriginalItemSpec=project.json
+                  TargetPath=project.json (TaskId:25)
+Done executing task "AssignTargetPath". (TaskId:25)
+Task "AssignTargetPath" (TaskId:26)
+  Task Parameter:RootFolder=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild (TaskId:26)
+Done executing task "AssignTargetPath". (TaskId:26)
+Task "AssignTargetPath" skipped, due to false condition; ('@(_DeploymentBaseManifestWithTargetPath)'=='' and '%(None.Extension)'=='.manifest') was evaluated as (''=='' and '.config'=='.manifest').
+Task "AssignTargetPath" skipped, due to false condition; ('@(_DeploymentBaseManifestWithTargetPath)'=='' and '%(None.Extension)'=='.manifest') was evaluated as (''=='' and '.json'=='.manifest').
+Done building target "AssignTargetPaths" in project "ProjectJsonBuild.csproj".: (TargetId:39)
+Target "AssignTargetPaths" skipped. Previously built successfully.
+Target "SplitResourcesByCulture: (TargetId:40)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "PrepareResourceNames" depends on it):
+Task "Warning" skipped, due to false condition; ('@(ResxWithNoCulture)'!='') was evaluated as (''!='').
+Task "Warning" skipped, due to false condition; ('@(ResxWithCulture)'!='') was evaluated as (''!='').
+Task "Warning" skipped, due to false condition; ('@(NonResxWithCulture)'!='') was evaluated as (''!='').
+Task "Warning" skipped, due to false condition; ('@(NonResxWithNoCulture)'!='') was evaluated as (''!='').
+Using "AssignCulture" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "AssignCulture" (TaskId:27)
+Done executing task "AssignCulture". (TaskId:27)
+Done building target "SplitResourcesByCulture" in project "ProjectJsonBuild.csproj".: (TargetId:40)
+Target "CreateManifestResourceNames" skipped, due to false condition; ('@(EmbeddedResource)' != '') was evaluated as ('' != '').
+Target "CreateCustomManifestResourceNames: (TargetId:41)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "PrepareResourceNames" depends on it):
+Done building target "CreateCustomManifestResourceNames" in project "ProjectJsonBuild.csproj".: (TargetId:41)
+Target "PrepareResourceNames: (TargetId:42)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "PrepareResources" depends on it):
+Done building target "PrepareResourceNames" in project "ProjectJsonBuild.csproj".: (TargetId:42)
+Target "ResolveAssemblyReferences" skipped. Previously built successfully.
+Target "SplitResourcesByCulture" skipped. Previously built successfully.
+Target "BeforeResGen: (TargetId:43)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "ResGen" depends on it):
+Done building target "BeforeResGen" in project "ProjectJsonBuild.csproj".: (TargetId:43)
+Target "CoreResGen: (TargetId:44)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "ResGen" depends on it):
+Set Property: GenerateResourceMSBuildArchitecture=x86
+Set Property: ResgenToolPath=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\
+Set Property: GenerateResourceMSBuildRuntime=CurrentRuntime
+Task "GenerateResource" skipped, due to false condition; ('%(EmbeddedResource.Type)' == 'Resx' and '%(EmbeddedResource.GenerateResource)' != 'false' and '$(GenerateResourceMSBuildRuntime)' != 'CLR2') was evaluated as ('' == 'Resx' and '' != 'false' and 'CurrentRuntime' != 'CLR2').
+Task "GenerateResource" skipped, due to false condition; ('%(EmbeddedResource.Type)' == 'Resx' and '%(EmbeddedResource.GenerateResource)' != 'false' and '$(GenerateResourceMSBuildRuntime)' == 'CLR2') was evaluated as ('' == 'Resx' and '' != 'false' and 'CurrentRuntime' == 'CLR2').
+Done building target "CoreResGen" in project "ProjectJsonBuild.csproj".: (TargetId:44)
+Target "AfterResGen: (TargetId:45)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "ResGen" depends on it):
+Done building target "AfterResGen" in project "ProjectJsonBuild.csproj".: (TargetId:45)
+Target "ResGen: (TargetId:46)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "PrepareResources" depends on it):
+Done building target "ResGen" in project "ProjectJsonBuild.csproj".: (TargetId:46)
+Target "CompileLicxFiles" skipped, due to false condition; ('@(_LicxFile)'!='') was evaluated as (''!='').
+Target "PrepareResources: (TargetId:47)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "CoreBuild" depends on it):
+Done building target "PrepareResources" in project "ProjectJsonBuild.csproj".: (TargetId:47)
+Target "ResolveKeySource" skipped, due to false condition; ($(SignManifests) == 'true' or $(SignAssembly) == 'true') was evaluated as ( == 'true' or  == 'true').
+Target "ResolveReferences" skipped. Previously built successfully.
+Target "ResolveKeySource" skipped, due to false condition; ($(SignManifests) == 'true' or $(SignAssembly) == 'true') was evaluated as ( == 'true' or  == 'true').
+Target "ResolveComReferences" skipped, due to false condition; ('@(COMReference)'!='' or '@(COMFileReference)'!='') was evaluated as (''!='' or ''!='').
+Target "ResolveNativeReferences" skipped, due to false condition; ('@(NativeReference)'!='') was evaluated as (''!='').
+Target "_SetExternalWin32ManifestProperties" skipped, due to false condition; ('$(GenerateClickOnceManifests)'=='true' or '@(NativeReference)'!='' or '@(ResolvedIsolatedComModules)'!='') was evaluated as (''=='true' or ''!='' or ''!='').
+Target "_SetEmbeddedWin32ManifestProperties: (TargetId:48)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "SetWin32ManifestProperties" depends on it):
+Set Property: EmbeddedWin32Manifest=
+Set Property: Win32Manifest=
+Using "GetFrameworkPath" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "GetFrameworkPath" (TaskId:28)
+  Output Property: _FrameworkVersion40Path=C:\Windows\Microsoft.NET\Framework\v4.0.30319 (TaskId:28)
+Done executing task "GetFrameworkPath". (TaskId:28)
+Set Property: EmbeddedWin32Manifest=C:\Windows\Microsoft.NET\Framework\v4.0.30319\default.win32manifest
+Done building target "_SetEmbeddedWin32ManifestProperties" in project "ProjectJsonBuild.csproj".: (TargetId:48)
+Target "SetWin32ManifestProperties: (TargetId:49)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "Compile" depends on it):
+Done building target "SetWin32ManifestProperties" in project "ProjectJsonBuild.csproj".: (TargetId:49)
+Target "_GenerateCompileInputs: (TargetId:50)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "Compile" depends on it):
+Task "Warning" skipped, due to false condition; ('@(ManifestResourceWithNoCulture)'!='' and '%(ManifestResourceWithNoCulture.EmittedForCompatibilityOnly)'=='') was evaluated as (''!='' and ''=='').
+Task "Warning" skipped, due to false condition; ('@(ManifestNonResxWithNoCultureOnDisk)'!='' and '%(ManifestNonResxWithNoCultureOnDisk.EmittedForCompatibilityOnly)'=='') was evaluated as (''!='' and ''=='').
+Done building target "_GenerateCompileInputs" in project "ProjectJsonBuild.csproj".: (TargetId:50)
+Target "PrepareForBuild" skipped. Previously built successfully.
+Target "GetReferenceAssemblyPaths" skipped. Previously built successfully.
+Target "_SetTargetFrameworkMonikerAttribute: (TargetId:51)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.CSharp.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "GenerateTargetFrameworkMonikerAttribute" depends on it):
+Set Property: TargetFrameworkMonikerAssemblyAttributeText=
+// <autogenerated />
+using System%3b
+using System.Reflection%3b
+[assembly: global::System.Runtime.Versioning.TargetFrameworkAttribute(".NETFramework,Version=v4.5.2", FrameworkDisplayName = ".NET Framework 4.5.2")]
+        
+Done building target "_SetTargetFrameworkMonikerAttribute" in project "ProjectJsonBuild.csproj".: (TargetId:51)
+Target "GenerateTargetFrameworkMonikerAttribute: (TargetId:52)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "BeforeCompile" depends on it):
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+Input files: C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.targets
+Output files: C:\Users\ikiselev\AppData\Local\Temp\.NETFramework,Version=v4.5.2.AssemblyAttributes.cs
+Added Item(s): Compile=C:\Users\ikiselev\AppData\Local\Temp\.NETFramework,Version=v4.5.2.AssemblyAttributes.cs
+Done building target "GenerateTargetFrameworkMonikerAttribute" in project "ProjectJsonBuild.csproj".: (TargetId:52)
+Target "GenerateAdditionalSources" skipped, due to false condition; ('@(AssemblyAttributes)' != '' and '$(GenerateAdditionalSources)' == 'true') was evaluated as ('' != '' and '' == 'true').
+Target "BeforeCompile: (TargetId:53)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "Compile" depends on it):
+Done building target "BeforeCompile" in project "ProjectJsonBuild.csproj".: (TargetId:53)
+Target "_TimeStampBeforeCompile" skipped, due to false condition; ('$(RunPostBuildEvent)'=='OnOutputUpdated' or ('$(RegisterForComInterop)'=='true' and '$(OutputType)'=='library')) was evaluated as (''=='OnOutputUpdated' or (''=='true' and 'Exe'=='library')).
+Target "ResolveAssemblyReferences" skipped. Previously built successfully.
+Target "_GenerateCompileDependencyCache: (TargetId:54)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "Compile" depends on it):
+Added Item(s): CustomAdditionalCompileInputs=obj\Debug\CoreCompileInputs.cache
+Added Item(s): 
+    CoreCompileCache=
+        C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\Program.cs
+        C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\Properties\AssemblyInfo.cs
+        C:\Users\ikiselev\AppData\Local\Temp\.NETFramework,Version=v4.5.2.AssemblyAttributes.cs
+Added Item(s): 
+    CoreCompileCache=
+        C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll
+                CopyLocal=false
+                FrameworkFile=true
+                FusionName=Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+                ImageRuntime=v4.0.30319
+                OriginalItemSpec=Microsoft.CSharp
+                Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                ReferenceSourceTarget=ResolveAssemblyReference
+                ResolvedFrom={TargetFrameworkDirectory}
+                Version=4.0.0.0
+        C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                CopyLocal=false
+                FrameworkFile=true
+                FusionName=mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                ImageRuntime=v4.0.30319
+                OriginalItemSpec=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                ReferenceSourceTarget=ResolveAssemblyReference
+                ResolvedFrom=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                Version=4.0.0.0
+        C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll
+                CopyLocal=false
+                FrameworkFile=true
+                FusionName=System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                ImageRuntime=v4.0.30319
+                Implicit=true
+                OriginalItemSpec=System.Core
+                Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                ReferenceSourceTarget=ResolveAssemblyReference
+                ResolvedFrom={TargetFrameworkDirectory}
+                Version=4.0.0.0
+        C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.DataSetExtensions.dll
+                CopyLocal=false
+                FrameworkFile=true
+                FusionName=System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                ImageRuntime=v4.0.30319
+                OriginalItemSpec=System.Data.DataSetExtensions
+                Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                ReferenceSourceTarget=ResolveAssemblyReference
+                ResolvedFrom={TargetFrameworkDirectory}
+                Version=4.0.0.0
+        C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll
+                CopyLocal=false
+                FrameworkFile=true
+                FusionName=System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                ImageRuntime=v4.0.30319
+                OriginalItemSpec=System.Data
+                Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                ReferenceSourceTarget=ResolveAssemblyReference
+                ResolvedFrom={TargetFrameworkDirectory}
+                Version=4.0.0.0
+        C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll
+                CopyLocal=false
+                FrameworkFile=true
+                FusionName=System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                ImageRuntime=v4.0.30319
+                OriginalItemSpec=System
+                Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                ReferenceSourceTarget=ResolveAssemblyReference
+                ResolvedFrom={TargetFrameworkDirectory}
+                Version=4.0.0.0
+        C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll
+                CopyLocal=false
+                FrameworkFile=true
+                FusionName=System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+                ImageRuntime=v4.0.30319
+                OriginalItemSpec=System.Net.Http
+                Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                ReferenceSourceTarget=ResolveAssemblyReference
+                ResolvedFrom={TargetFrameworkDirectory}
+                Version=4.0.0.0
+        C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll
+                CopyLocal=false
+                FrameworkFile=true
+                FusionName=System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                ImageRuntime=v4.0.30319
+                OriginalItemSpec=System.Xml
+                Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                ReferenceSourceTarget=ResolveAssemblyReference
+                ResolvedFrom={TargetFrameworkDirectory}
+                Version=4.0.0.0
+        C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.Linq.dll
+                CopyLocal=false
+                FrameworkFile=true
+                FusionName=System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                ImageRuntime=v4.0.30319
+                OriginalItemSpec=System.Xml.Linq
+                Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                ReferenceSourceTarget=ResolveAssemblyReference
+                ResolvedFrom={TargetFrameworkDirectory}
+                Version=4.0.0.0
+Using "Hash" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "Hash" (TaskId:29)
+  Task Parameter:
+      ItemsToHash=
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\Program.cs
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\Properties\AssemblyInfo.cs
+          C:\Users\ikiselev\AppData\Local\Temp\.NETFramework,Version=v4.5.2.AssemblyAttributes.cs
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=Microsoft.CSharp
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  Implicit=true
+                  OriginalItemSpec=System.Core
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.DataSetExtensions.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Data.DataSetExtensions
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Data
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Net.Http
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Xml
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.Linq.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Xml.Linq
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0 (TaskId:29)
+  Output Property: CoreCompileDependencyHash=b64241afc5ca11d5052ffdc0d8ea2443d4be404c (TaskId:29)
+Done executing task "Hash". (TaskId:29)
+Task "WriteLinesToFile" (TaskId:30)
+  Task Parameter:Lines=b64241afc5ca11d5052ffdc0d8ea2443d4be404c (TaskId:30)
+  Task Parameter:File=obj\Debug\CoreCompileInputs.cache (TaskId:30)
+  Task Parameter:Overwrite=True (TaskId:30)
+  Task Parameter:WriteOnlyWhenDifferent=True (TaskId:30)
+  (TaskId:30)
+Done executing task "WriteLinesToFile". (TaskId:30)
+Done building target "_GenerateCompileDependencyCache" in project "ProjectJsonBuild.csproj".: (TargetId:54)
+Target "_ComputeNonExistentFileProperty" skipped, due to false condition; (('$(BuildingInsideVisualStudio)' == 'true') and ('$(BuildingOutOfProcess)' != 'true') and (('$(BuildingProject)' == 'false') or ('$(UseHostCompilerIfAvailable)' == 'true'))) was evaluated as (('' == 'true') and ('' != 'true') and (('true' == 'false') or ('true' == 'true'))).
+Target "ResolveCodeAnalysisRuleSet: (TargetId:55)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.CSharp.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "CoreCompile" depends on it):
+Using "ResolveCodeAnalysisRuleSet" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "ResolveCodeAnalysisRuleSet" (TaskId:31)
+  Task Parameter:CodeAnalysisRuleSet=MinimumRecommendedRules.ruleset (TaskId:31)
+  Task Parameter:CodeAnalysisRuleSetDirectories=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Team Tools\Static Analysis Tools\\Rule Sets (TaskId:31)
+  Task Parameter:MSBuildProjectDirectory=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild (TaskId:31)
+  Output Property: ResolvedCodeAnalysisRuleSet=C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Enterprise\Team Tools\Static Analysis Tools\\Rule Sets\MinimumRecommendedRules.ruleset (TaskId:31)
+Done executing task "ResolveCodeAnalysisRuleSet". (TaskId:31)
+Done building target "ResolveCodeAnalysisRuleSet" in project "ProjectJsonBuild.csproj".: (TargetId:55)
+Target "PreXsdCodeGen: (TargetId:56)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.ServiceModel.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "CoreCompile" depends on it):
+Set Property: XsdCodeGenPreCondition=False
+Using "CallTarget" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "CallTarget" (TaskId:32)
+  Task Parameter:Targets=CleanXsdCodeGen (TaskId:32)
+Target "CleanXsdCodeGen" skipped. Previously built successfully.
+Done executing task "CallTarget". (TaskId:32)
+Done building target "PreXsdCodeGen" in project "ProjectJsonBuild.csproj".: (TargetId:56)
+Target "XsdCodeGen" skipped, due to false condition; ( '$(XsdCodeGenPreCondition)' == 'True' ) was evaluated as ( 'False' == 'True' ).
+Target "CoreCompile: (TargetId:57)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Roslyn\Microsoft.CSharp.Core.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "Compile" depends on it):
+Building target "CoreCompile" completely.
+Output file "bin\Debug\ProjectJsonBuild.xml" does not exist.
+Set Property: NoWarn=;1701;1702
+Set Property: UseSharedCompilation=true
+Using "Csc" task from assembly "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll".
+Task "Csc" (TaskId:33)
+  Task Parameter:CodeAnalysisRuleSet=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Team Tools\Static Analysis Tools\\Rule Sets\MinimumRecommendedRules.ruleset (TaskId:33)
+  Task Parameter:DebugType=full (TaskId:33)
+  Task Parameter:DefineConstants=DEBUG;TRACE (TaskId:33)
+  Task Parameter:DisabledWarnings=;1701;1702 (TaskId:33)
+  Task Parameter:DocumentationFile=bin\Debug\ProjectJsonBuild.xml (TaskId:33)
+  Task Parameter:EmitDebugInformation=True (TaskId:33)
+  Task Parameter:ErrorReport=prompt (TaskId:33)
+  Task Parameter:FileAlignment=512 (TaskId:33)
+  Task Parameter:HighEntropyVA=True (TaskId:33)
+  Task Parameter:NoConfig=True (TaskId:33)
+  Task Parameter:NoStandardLib=True (TaskId:33)
+  Task Parameter:Optimize=False (TaskId:33)
+  Task Parameter:OutputAssembly=obj\Debug\ProjectJsonBuild.exe (TaskId:33)
+  Task Parameter:Platform=AnyCPU (TaskId:33)
+  Task Parameter:Prefer32Bit=True (TaskId:33)
+  Task Parameter:
+      References=
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=Microsoft.CSharp
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  Implicit=true
+                  OriginalItemSpec=System.Core
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.DataSetExtensions.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Data.DataSetExtensions
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Data
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Net.Http
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Xml
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.Linq.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Xml.Linq
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0 (TaskId:33)
+  Task Parameter:
+      Sources=
+          Program.cs
+          Properties\AssemblyInfo.cs
+          C:\Users\ikiselev\AppData\Local\Temp\.NETFramework,Version=v4.5.2.AssemblyAttributes.cs (TaskId:33)
+  Task Parameter:SubsystemVersion=6.00 (TaskId:33)
+  Task Parameter:TargetType=Exe (TaskId:33)
+  Task Parameter:TreatWarningsAsErrors=True (TaskId:33)
+  Task Parameter:UseHostCompilerIfAvailable=True (TaskId:33)
+  Task Parameter:UseSharedCompilation=True (TaskId:33)
+  Task Parameter:Utf8Output=True (TaskId:33)
+  Task Parameter:WarningLevel=4 (TaskId:33)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Roslyn\csc.exe /noconfig /nowarn:1701,1702 /nostdlib+ /platform:anycpu32bitpreferred /errorreport:prompt /warn:4 /doc:bin\Debug\ProjectJsonBuild.xml /define:DEBUG;TRACE /highentropyva+ /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.DataSetExtensions.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.Linq.dll" /debug+ /debug:full /filealign:512 /optimize- /out:obj\Debug\ProjectJsonBuild.exe /ruleset:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Team Tools\Static Analysis Tools\\Rule Sets\MinimumRecommendedRules.ruleset" /subsystemversion:6.00 /target:exe /warnaserror+ /utf8output Program.cs Properties\AssemblyInfo.cs "C:\Users\ikiselev\AppData\Local\Temp\.NETFramework,Version=v4.5.2.AssemblyAttributes.cs" (TaskId:33)
+  Using shared compilation with compiler from directory: C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Roslyn (TaskId:33)
+  Microsoft (R) Visual C# Compiler version 2.0.0.61404 (TaskId:33)
+  Copyright (C) Microsoft Corporation. All rights reserved. (TaskId:33)
+Program.cs(9,18): error CS1591: Missing XML comment for publicly visible type or member 'Program' [C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj]
+  Output Item(s): CscCommandLineArgs= (TaskId:33)
+Done executing task "Csc" -- FAILED. (TaskId:33)
+Done building target "CoreCompile" in project "ProjectJsonBuild.csproj" -- FAILED.: (TargetId:57)
+Target "_CheckForCompileOutputs: (TargetId:58)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "_CleanGetCurrentAndPriorFileWrites" depends on it):
+Added Item(s): FileWrites=bin\Debug\ProjectJsonBuild.xml
+Set Property: _DebugSymbolsProduced=false
+Done building target "_CheckForCompileOutputs" in project "ProjectJsonBuild.csproj".: (TargetId:58)
+Target "_SGenCheckForOutputs" skipped, due to false condition; ('$(_SGenGenerateSerializationAssembliesConfig)' == 'On' or ('@(WebReferenceUrl)'!='' and '$(_SGenGenerateSerializationAssembliesConfig)' == 'Auto')) was evaluated as ('Off' == 'On' or (''!='' and 'Off' == 'Auto')).
+Target "_CleanGetCurrentAndPriorFileWrites: (TargetId:59)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "_CleanRecordFileWrites" depends on it):
+Task "ReadLinesFromFile" (TaskId:34)
+  Task Parameter:File=obj\Debug\ProjectJsonBuild.csproj.FileListAbsolute.txt (TaskId:34)
+Done executing task "ReadLinesFromFile". (TaskId:34)
+Using "ConvertToAbsolutePath" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+Task "ConvertToAbsolutePath" (TaskId:35)
+  Task Parameter:
+      Paths=
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=Microsoft.CSharp
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  Implicit=true
+                  OriginalItemSpec=System.Core
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.DataSetExtensions.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Data.DataSetExtensions
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Data
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Net.Http
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Xml
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.Linq.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Xml.Linq
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0 (TaskId:35)
+  Output Item(s): 
+      _ResolveAssemblyReferenceResolvedFilesAbsolute=
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=Microsoft.CSharp
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom=C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  Implicit=true
+                  OriginalItemSpec=System.Core
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.DataSetExtensions.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Data.DataSetExtensions
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Data
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Net.Http
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Xml
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0
+          C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.Linq.dll
+                  CopyLocal=false
+                  FrameworkFile=true
+                  FusionName=System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+                  ImageRuntime=v4.0.30319
+                  OriginalItemSpec=System.Xml.Linq
+                  Redist=Microsoft-Windows-CLRCoreComp.4.5.2
+                  ReferenceSourceTarget=ResolveAssemblyReference
+                  ResolvedFrom={TargetFrameworkDirectory}
+                  Version=4.0.0.0 (TaskId:35)
+Done executing task "ConvertToAbsolutePath". (TaskId:35)
+Task "FindUnderPath" (TaskId:36)
+  Task Parameter:Path=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild (TaskId:36)
+  Task Parameter:UpdateToAbsolutePaths=True (TaskId:36)
+  Comparison path is "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild". (TaskId:36)
+Done executing task "FindUnderPath". (TaskId:36)
+Task "FindUnderPath" (TaskId:37)
+  Task Parameter:Path=bin\Debug\ (TaskId:37)
+  Task Parameter:
+      Files=
+          obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache
+          bin\Debug\ProjectJsonBuild.xml (TaskId:37)
+  Task Parameter:UpdateToAbsolutePaths=True (TaskId:37)
+  Comparison path is "bin\Debug\". (TaskId:37)
+  Output Item(s): _CleanCurrentFileWritesInOutput=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml (TaskId:37)
+Done executing task "FindUnderPath". (TaskId:37)
+Task "FindUnderPath" (TaskId:38)
+  Task Parameter:Path=obj\Debug\ (TaskId:38)
+  Task Parameter:
+      Files=
+          obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache
+          bin\Debug\ProjectJsonBuild.xml (TaskId:38)
+  Task Parameter:UpdateToAbsolutePaths=True (TaskId:38)
+  Comparison path is "obj\Debug\". (TaskId:38)
+  Output Item(s): _CleanCurrentFileWritesInIntermediate=C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache (TaskId:38)
+Done executing task "FindUnderPath". (TaskId:38)
+Added Item(s): 
+    _CleanCurrentFileWritesWithNoReferences=
+        C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+        C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache
+Task "RemoveDuplicates" (TaskId:39)
+  Task Parameter:
+      Inputs=
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache (TaskId:39)
+  Output Item(s): 
+      _CleanCurrentFileWrites=
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache (TaskId:39)
+Done executing task "RemoveDuplicates". (TaskId:39)
+Done building target "_CleanGetCurrentAndPriorFileWrites" in project "ProjectJsonBuild.csproj".: (TargetId:59)
+Target "_CleanRecordFileWrites: (TargetId:60)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (target "CoreBuild" depends on it):
+Task "RemoveDuplicates" (TaskId:40)
+  Task Parameter:
+      Inputs=
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe.config
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.pdb
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.pdb
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache (TaskId:40)
+  Output Item(s): 
+      _CleanUniqueFileWrites=
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe.config
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.pdb
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.pdb (TaskId:40)
+Done executing task "RemoveDuplicates". (TaskId:40)
+Task "MakeDir" (TaskId:41)
+  Task Parameter:Directories=obj\Debug\ (TaskId:41)
+Done executing task "MakeDir". (TaskId:41)
+Task "WriteLinesToFile" (TaskId:42)
+  Task Parameter:File=obj\Debug\ProjectJsonBuild.csproj.FileListAbsolute.txt (TaskId:42)
+  Task Parameter:
+      Lines=
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.xml
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.csprojResolveAssemblyReference.cache
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe.config
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\bin\Debug\ProjectJsonBuild.pdb
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.exe
+          C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\obj\Debug\ProjectJsonBuild.pdb (TaskId:42)
+  Task Parameter:Overwrite=True (TaskId:42)
+Done executing task "WriteLinesToFile". (TaskId:42)
+Done building target "_CleanRecordFileWrites" in project "ProjectJsonBuild.csproj".: (TargetId:60)
+Done Building Project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (Rebuild target(s)) -- FAILED.
+
+Done executing task "MSBuild" -- FAILED. (TaskId:3)
+Done building target "Rebuild" in project "ProjectJsonBuild.sln" -- FAILED.: (TargetId:5)
+Done Building Project "C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln" (Rebuild target(s)) -- FAILED.
+
+
+Project Performance Summary:
+      670 ms  C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj   1 calls
+                670 ms  Rebuild                                    1 calls
+     1114 ms  C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln   1 calls
+               1114 ms  Rebuild                                    1 calls
+
+Target Performance Summary:
+        0 ms  BeforeRebuild                              1 calls
+        0 ms  BeforeResGen                               1 calls
+        0 ms  BeforeClean                                1 calls
+        0 ms  ResolveReferences                          1 calls
+        0 ms  BeforeBuild                                1 calls
+        0 ms  ResGen                                     1 calls
+        0 ms  CreateCustomManifestResourceNames          1 calls
+        0 ms  Clean                                      1 calls
+        0 ms  AfterResGen                                1 calls
+        0 ms  PrepareResources                           1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  CleanReferencedProjects                    1 calls
+        0 ms  BeforeCompile                              1 calls
+        0 ms  ValidateProjects                           1 calls
+        0 ms  PrepareResourceNames                       1 calls
+        0 ms  SetWin32ManifestProperties                 1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  PrepareProjectReferences                   1 calls
+        0 ms  AfterMarkupCompilePass1                    1 calls
+        0 ms  AfterClean                                 1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  BuildOnlySettings                          1 calls
+        0 ms  GetInstalledSDKLocations                   1 calls
+        0 ms  ValidateToolsVersions                      1 calls
+        0 ms  ValidationExtension                        1 calls
+        0 ms  CleanPublishFolder                         1 calls
+        0 ms  ResolveSDKReferences                       1 calls
+        1 ms  ExpressionBuildExtension                   1 calls
+        1 ms  _SetTargetFrameworkMonikerAttribute        1 calls
+        1 ms  CleanXsdCodeGen                            1 calls
+        1 ms  _GenerateCompileInputs                     1 calls
+        1 ms  ImplicitlyExpandDesignTimeFacades          1 calls
+        1 ms  _CheckForCompileOutputs                    1 calls
+        1 ms  _SplitProjectReferencesByFileExistence     1 calls
+        1 ms  FileClassification                         1 calls
+        2 ms  GetFrameworkPaths                          1 calls
+        3 ms  CoreResGen                                 1 calls
+        3 ms  ResolveCodeAnalysisRuleSet                 1 calls
+        3 ms  SplitResourcesByCulture                    1 calls
+        4 ms  _CleanRecordFileWrites                     1 calls
+        4 ms  _GetProjectReferenceTargetFrameworkProperties   1 calls
+        4 ms  AssignTargetPaths                          1 calls
+        5 ms  GenerateTargetFrameworkMonikerAttribute    1 calls
+        6 ms  PrepareForBuild                            1 calls
+        8 ms  _SetEmbeddedWin32ManifestProperties        1 calls
+        9 ms  GetReferenceAssemblyPaths                  1 calls
+        9 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+       10 ms  GenerateBindingRedirects                   1 calls
+       11 ms  _CleanGetCurrentAndPriorFileWrites         1 calls
+       11 ms  AssignProjectConfiguration                 1 calls
+       12 ms  PreXsdCodeGen                              1 calls
+       22 ms  ResolveProjectReferences                   1 calls
+       24 ms  _GenerateCompileDependencyCache            1 calls
+       71 ms  CoreClean                                  1 calls
+       72 ms  ResolveNuGetPackageAssets                  1 calls
+       88 ms  ValidateSolutionConfiguration              1 calls
+      150 ms  ResolveAssemblyReferences                  1 calls
+      153 ms  CoreCompile                                1 calls
+      950 ms  Rebuild                                    1 calls
+
+Task Performance Summary:
+        2 ms  RemoveDuplicates                           3 calls
+        2 ms  AssignCulture                              1 calls
+        2 ms  ResolveCodeAnalysisRuleSet                 1 calls
+        2 ms  FindAppConfigFile                          1 calls
+        2 ms  Hash                                       1 calls
+        2 ms  ConvertToAbsolutePath                      1 calls
+        4 ms  AssignTargetPath                           4 calls
+        5 ms  GenerateBindingRedirects                   1 calls
+        5 ms  MakeDir                                    3 calls
+        6 ms  WriteLinesToFile                           3 calls
+        6 ms  GetReferenceAssemblyPaths                  1 calls
+        7 ms  GetFrameworkPath                           1 calls
+        8 ms  AssignProjectConfiguration                 1 calls
+       12 ms  CallTarget                                 1 calls
+       13 ms  ReadLinesFromFile                          2 calls
+       15 ms  FindUnderPath                              5 calls
+       29 ms  Delete                                     3 calls
+       32 ms  Message                                    3 calls
+       68 ms  ResolveNuGetPackageAssets                  1 calls
+      145 ms  Csc                                        1 calls
+      146 ms  ResolveAssemblyReference                   1 calls
+      930 ms  MSBuild                                    2 calls
+
+Build FAILED.
+
+"C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild.sln" (Rebuild target) (1) ->
+"C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj" (Rebuild target) (2) ->
+(CoreCompile target) -> 
+  Program.cs(9,18): error CS1591: Missing XML comment for publicly visible type or member 'Program' [C:\Projects\playground\ProjectJsonBuild\ProjectJsonBuild\ProjectJsonBuild.csproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.57
